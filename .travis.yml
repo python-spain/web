@@ -1,0 +1,16 @@
+language: python
+python:
+    - "3.6"
+branches:
+  only:
+  - master
+before_script:
+  - git config --global user.email "agent@travis.com"
+  - git config --global user.name "Travis Agent"
+  - git remote rm origin
+  - git remote add origin https://user:${GH_TOKEN}@github.com/python-spain/web.git
+install: "pip install -r requirements.txt"
+script: make github
+env:
+  global:
+    secure: JQihf/Z5T2IMWrXrVWitJkgFNHRP2Eo75Vm3bkcmOcsfXamcMggmMX/lDkpYppXlTippj+fmO8+/ijfHVdMIAEcSp4/2Bijx6qurh8ayX1Ywve4QB4RlLgA5gEqEME93Qb2HmncdH+bWZbNaolsUB9Gseg78fsmQcAXjjgJtDvh+oV6unrYmb8jwmmFhMNzN9RlnyAGgRDVP7pab2T0k6MTnBreouY+TLJaK9tWIuU+XtvmFRqQcHFVbKQ2RPkVbbCrAn5woN4Nn3Miz0AhpiNBW0+EqH35B8tn4CaR+hacnqgqPOF/qfK6F04Taq309QW9MmhcFQAh+hQaBK1Aq5AGp2CEpZOsZCWA5KKqFTI5aT3+Zo395ubsoBcGtyqJGSKzn1f2+U8TA64JTNziLBO6H2XKbLXlt1hTarjaA56muZXj44FXNV9pUEIDpuNlUW7L8rxOrhlJ4+Njnd1mtVpdWXsmJqE5W7iuRnw8TrAOjI2aHSR9oRXmzcKeWEaC2wcJDiwH+m0wDbuSd/iZ9oSRfIOBCs/vimOsFkLCIXLiWWKmoLt78u1tDXnp0XrWPujgqwWMYB3ZR7mlRo50MYR3bO6KVVVoq0YYQ5CTFNgrA10eB8pnU8LrZ/jRCmkvIPQiAXDaJ4Mk5LKzO+ScqkH0y0DeucxO/AKwkJyg+EhQ=
