@@ -10,8 +10,8 @@ Title: Comunidades
   integrity="sha256-/SIrNqv8h6QGKDuNoLGA4iret+kyesCkHGzVUUV0shc="
   crossorigin="anonymous"></script>
 
-<p>Aquí puedes encontrar las comunidades de Python en España. Si crees que falta alguna,
-<a href="https://github.com/python-spain/web/edit/master/content/pages/comunidades.md">¡puedes añadirla!</a>
+<p>Aquí puedes encontrar las comunidades de Python en España. Si crees que falta alguna, <a href="https://github.com/python-spain/web/edit/master/content/pages/comunidades.md">¡puedes añadirla!</a></p>
+
 <div id="map" style="height: 600px"></div>
 
 <script>
@@ -22,11 +22,15 @@ Title: Comunidades
     L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
     attribution: '&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors'
     }).addTo(map);
+
 function addLocation(loc_data) {
     var title = loc_data[2];
     var link = loc_data[3];
-  L.marker([loc_data[0], loc_data[1]]).bindPopup(`${title} <a target="_blank" href=${link}>Link.</a>`).add
+  L.marker([loc_data[0], loc_data[1]]).bindPopup(`${title} <a target="_blank" href=${link}>Link.</a>`).addTo(map);
 }
+
+
+
 var locations = [
 [38.01348, -1.17376, 'Python Meetup Murcia', 'http://www.meetup.com/es-ES/Meetup-de-Python-en-Murcia/'],
 [40.4300, -3.6526, 'Python Madrid', 'http://www.python-madrid.es/'],
