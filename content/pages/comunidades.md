@@ -1,16 +1,17 @@
 Title: Comunidades
 
 <link rel="stylesheet" href="//unpkg.com/leaflet@1.0.3/dist/leaflet.css"
-  integrity="sha512-07I2e+7D8p6he1SIM+1twR5TIrhUQn9+I6yjqD53JQjFiMf8EtC93ty0/5vJTZGF8aAocvHYNEDJajGdNx1IsQ
+  integrity="sha512-07I2e+7D8p6he1SIM+1twR5TIrhUQn9+I6yjqD53JQjFiMf8EtC93ty0/5vJTZGF8aAocvHYNEDJajGdNx1IsQ"
   crossorigin=""/>
 <script src="//unpkg.com/leaflet@1.0.3/dist/leaflet.js"
-  integrity="sha512-A7vV8IFfih/D732iSSKi20u/ooOfj/AGehOKq0f4vLT1Zr2Y+RX7C+w8A1gaSasGtRUZpF/NZgzSAu4/Gc41Lg
+  integrity="sha512-A7vV8IFfih/D732iSSKi20u/ooOfj/AGehOKq0f4vLT1Zr2Y+RX7C+w8A1gaSasGtRUZpF/NZgzSAu4/Gc41Lg"
   crossorigin=""></script>
 <script src="//code.jquery.com/jquery-3.1.1.slim.min.js"
   integrity="sha256-/SIrNqv8h6QGKDuNoLGA4iret+kyesCkHGzVUUV0shc="
   crossorigin="anonymous"></script>
 
-<p>Aquí puedes encontrar las comunidades de Python en España. Si crees que falta alguna, puedes añadirla s
+<p>Aquí puedes encontrar las comunidades de Python en España. Si crees que falta alguna,
+<a href="https://github.com/python-spain/web/edit/master/content/pages/comunidades.md">¡puedes añadirla!</a>
 <div id="map" style="height: 600px"></div>
 
 <script>
