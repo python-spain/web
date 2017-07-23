@@ -10,7 +10,7 @@ Title: Comunidades
   integrity="sha256-/SIrNqv8h6QGKDuNoLGA4iret+kyesCkHGzVUUV0shc="
   crossorigin="anonymous"></script>
 
-<p>Aquí puedes encontrar las comunidades de Python en España. Si crees que falta alguna, <a href="https://github.com/python-spain/web/edit/master/content/pages/comunidades.md">¡puedes añadirla!</a></p>
+<p>Aquí puedes encontrar las comunidades de Python en España. Si crees que falta alguna, <a href="https://github.com/python-spain/python-spain.github.io/edit/master/content/pages/comunidades.md">¡puedes añadirla!</a></p>
 
 <div id="map" style="height: 600px"></div>
 
