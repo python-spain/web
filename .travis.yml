@@ -8,7 +8,7 @@ before_script:
   - git config --global user.email "agent@travis.com"
   - git config --global user.name "Travis Agent"
   - git remote rm origin
-  - git remote add origin https://user:${GH_TOKEN}@github.com/python-spain/web.git
+  - git remote add origin https://user:${GH_TOKEN}@github.com/python-spain/python-spain.github.io.git
 install: "pip install -r requirements.txt"
 script: make github
 env:
