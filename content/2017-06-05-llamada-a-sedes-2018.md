@@ -1,7 +1,7 @@
 Title: Llamada a sedes PyConES 2018
 Date: 2017-06-05
 Category: PyConES
-
+Summary: Nos complace anunciar que queda abierta la llamada a sedes para la PyConES 2018.
 
 Hola pythonistas:
 
