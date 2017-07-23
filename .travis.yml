@@ -3,7 +3,7 @@ python:
     - "3.6"
 branches:
   only:
-  - master
+  - raw-content
 before_script:
   - git config --global user.email "agent@travis.com"
   - git config --global user.name "Travis Agent"
