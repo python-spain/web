@@ -1,11 +1,5 @@
+[![Build Status](https://travis-ci.org/python-spain/web.svg?branch=master)](https://travis-ci.org/python-spain/web)
+
 # web
 Web de la Asociación Python España
-
-Actualmente en desarrollo y no publicada. Próximamente...
-
-
-
-# instrucciones
-
-- clonarse el repositorio
-- pip install -r requirements.txt
+https://es.python.org
