@@ -3,10 +3,17 @@ Title: ¡Hazte socio!
 
 Este documento detalla el procedimiento que ha establecido Python España para que una persona pueda formar parte de la asociación.
 
-## Procedimiento
+## Quiero asociarme
 
-Realizar una transferencia de 30 € a la cuenta de la asociación indicando en el asunto el DNI/NIE y destinatario "Asociación Python España".
-Mandar un correo a la dirección: alta@es.python.org, adjuntando copia/foto del dni/nie, un teléfono de contacto y la copia/foto del comprobante de pago.
+Realizar una transferencia de 30€ a la cuenta de la asociación indicando en el asunto el DNI/NIE y destinatario "Asociación Python España".
+
+Mandar un correo a la dirección: alta@es.python.org, adjuntando copia/foto del dni/nie, un teléfono de contacto y la copia/foto del comprobante de pago e indicando en el asunto "Alta nuevo socio".
+
+## Quiero renovar la cuota
+
+Realizar una transferencia de 30€ a la cuenta de la asociación indicando en el asunto el número de socio o DNI/NIE y destinatario "Asociación Python España".
+
+Mandar un correo a la dirección: alta@es.python.org, adjuntando copia/foto del comprobante de pago e indicando en el asunto "Renovación cuota".
 
 ## Datos adicionales
 
@@ -16,12 +23,6 @@ Cuenta bancaria de la asociación:
 Triodos BANK IBAN
 ES18 1491 0001 2230 0008 5378
 ```
-
-## Quiero renovar la cuota
-
-Realizar una transferencia de 30€ a la cuenta de la asociación indicando en el asunto el número de socio o DNI/NIE y destinatario "Asociación Python España".
-
-Mandar un correo a la dirección: alta@es.python.org, adjuntando copia/foto del comprobante de pago e indicando en el asunto "Renovación cuota".
 
 ## Notas generales
 
