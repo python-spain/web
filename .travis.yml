@@ -23,5 +23,5 @@ install:
 script: pelican content
 
 after_success:
-  - rsync -avz --delete output/ pythones@es.python.org:python-es-static-web/
+  - rsync -avz --delete output/ $DEPLOYMENT_URL
 
