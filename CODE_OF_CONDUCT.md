@@ -1,84 +1,80 @@
-# Code of Conduct
+# Código de Conducta
 
-## 1. Purpose
+## 1. Propósito
 
-A primary goal of Python España is to be inclusive to the largest number of contributors, with the most varied and diverse backgrounds possible. As such, we are committed to providing a friendly, safe and welcoming environment for all, regardless of gender, sexual orientation, ability, ethnicity, socioeconomic status, and religion (or lack thereof).
+Un objetivo primordial de Python España es incluir al mayor número de colaboradores, con los más variados y diversos antecedentes posibles. Como tal, estamos comprometidos a proveer un ambiente amistoso, seguro y acogedor para todos, independientemente del género, orientación sexual, habilidad, etnia, condición socioeconómica y religión (o falta de ella).
 
-This code of conduct outlines our expectations for all those who participate in our community, as well as the consequences for unacceptable behavior.
+Este código de conducta esboza nuestras expectativas para todos aquellos que participan en nuestra comunidad, así como las consecuencias de un comportamiento inaceptable.
 
-We invite all those who participate in Python España to help us create safe and positive experiences for everyone.
+Invitamos a todos los que participan en Python España a ayudarnos a crear experiencias seguras y positivas para todos.
 
-## 2. Open Source Citizenship
+## 2. Ciudadanía de código abierto
 
-A supplemental goal of this Code of Conduct is to increase open source citizenship by encouraging participants to recognize and strengthen the relationships between our actions and their effects on our community.
+Una meta complementaria de este Código de Conducta es aumentar la ciudadanía de código abierto alentando a los participantes a reconocer y fortalecer las relaciones entre nuestras acciones y sus efectos en nuestra comunidad.
 
-Communities mirror the societies in which they exist and positive action is essential to counteract the many forms of inequality and abuses of power that exist in society.
+Las comunidades reflejan las sociedades en las que existen y la acción positiva es esencial para contrarrestar las muchas formas de desigualdad y abusos de poder que existen en la sociedad.
 
-If you see someone who is making an extra effort to ensure our community is welcoming, friendly, and encourages all participants to contribute to the fullest extent, we want to know.
+Si ve a alguien que haga un esfuerzo extra para asegurar que nuestra comunidad sea acogedora, amistosa y anime a todos los participantes a contribuir al máximo, queremos saberlo.
 
-## 3. Expected Behavior
+## 3. Comportamiento esperado
 
-The following behaviors are expected and requested of all community members:
+Se esperan y solicitan los siguientes comportamientos de todos los miembros de la comunidad:
 
-*   Participate in an authentic and active way. In doing so, you contribute to the health and longevity of this community.
-*   Exercise consideration and respect in your speech and actions.
-*   Attempt collaboration before conflict.
-*   Refrain from demeaning, discriminatory, or harassing behavior and speech.
-*   Be mindful of your surroundings and of your fellow participants. Alert community leaders if you notice a dangerous situation, someone in distress, or violations of this Code of Conduct, even if they seem inconsequential.
-*   Remember that community event venues may be shared with members of the public; please be respectful to all patrons of these locations.
+* Participar de una manera auténtica y activa. Al hacerlo, contribuye a la salud y la longevidad de esta comunidad.
+* Ejercer consideración y respeto en su discurso y acciones.
+* Intento de colaboración antes del conflicto.
+* Abstenerse de comportamiento humillante, discriminatorio, o conducta y discurso de acoso.
+* Tenga presente el entorno y los compañeros participantes. Alerte a los líderes de la comunidad si nota una situación peligrosa, alguien en peligro o violaciones de este Código de Conducta, incluso si parecen ser intrascendentes.
+* Recuerde que los lugares para eventos de la comunidad pueden ser compartidos con el público general; por favor, sea respetuoso con todos los clientes de estas ubicaciones.
 
-## 4. Unacceptable Behavior
+## 4. Comportamiento inaceptable
 
-The following behaviors are considered harassment and are unacceptable within our community:
+Los siguientes comportamientos se consideran acoso y son inaceptables dentro de nuestra comunidad:
 
-*   Violence, threats of violence or violent language directed against another person.
-*   Sexist, racist, homophobic, transphobic, ableist or otherwise discriminatory jokes and language.
-*   Posting or displaying sexually explicit or violent material.
-*   Posting or threatening to post other people’s personally identifying information ("doxing").
-*   Personal insults, particularly those related to gender, sexual orientation, race, religion, or disability.
-*   Inappropriate photography or recording.
-*   Inappropriate physical contact. You should have someone’s consent before touching them.
-*   Unwelcome sexual attention. This includes, sexualized comments or jokes; inappropriate touching, groping, and unwelcomed sexual advances.
-*   Deliberate intimidation, stalking or following (online or in person).
-*   Advocating for, or encouraging, any of the above behavior.
-*   Sustained disruption of community events, including talks and presentations.
+* Violencia, amenazas de violencia o lenguaje violento dirigido contra otra persona.
+* Chistes y lenguaje sexistas, racistas, homofóbicos, transfóbicos, contra discapacitados o discriminatorios.
+* Publicar o exhibir material sexualmente explícito o violento.
+* Publicar o amenazar con publicar la información personal de identificación de otras personas ("doxing").
+* Insultos personales, particularmente aquellos relacionados con el género, orientación sexual, raza, religión o discapacidad.
+* Fotografía o grabación inapropiada.
+* Contacto físico inapropiado. Usted debe tener el consentimiento de alguien antes de tocarle.
+* Atención sexual no deseada. Esto incluye comentarios sexualizados o bromas; tacto inapropiado, tanteo y avances sexuales no bien recibidos.
+* Intimidación deliberada, acecho o seguimiento (en línea o en persona).
+* Abogar por, o alentar, cualquiera de los comportamientos anteriores.
+* Interrupción sostenida de los eventos de la comunidad, incluyendo charlas y presentaciones.
 
-## 5. Consequences of Unacceptable Behavior
+## 5. Consecuencias de un comportamiento inaceptable
 
-Unacceptable behavior from any community member, including sponsors and those with decision-making authority, will not be tolerated.
+El comportamiento inaceptable de cualquier miembro de la comunidad, incluidos los patrocinadores y los que tienen autoridad para tomar decisiones, no será tolerado.
 
-Anyone asked to stop unacceptable behavior is expected to comply immediately.
+Cualquier persona que se le pida detener un comportamiento inaceptable se espera que cumpla de inmediato.
 
-If a community member engages in unacceptable behavior, the community organizers may take any action they deem appropriate, up to and including a temporary ban or permanent expulsion from the community without warning (and without refund in the case of a paid event).
+Si un miembro de la comunidad se involucra en un comportamiento inaceptable, los organizadores de la comunidad pueden tomar cualquier acción que consideren apropiada, hasta e incluyendo una prohibición temporal o expulsión permanente de la comunidad sin previo aviso (y sin reembolso en caso de un evento pagado).
 
-## 6. Reporting Guidelines
+## 6. Directrices de presentación de informes
 
-If you are subject to or witness unacceptable behavior, or have any other concerns, please notify a community organizer as soon as possible. contacto2017@es.python.org.
+Si usted está sujeto a, o es testigo de un comportamiento inaceptable, o tiene cualquier otra preocupación, por favor notifíquelo a un organizador de la comunidad tan pronto como sea posible. contacto2017@es.python.org
 
+Además, los organizadores de la comunidad están disponibles para ayudar a los miembros de la comunidad a involucrarse con la policía local o para ayudar, a aquellos que experimentan comportamientos inaceptables, a sentirse seguros. En el contexto de eventos presenciales, los organizadores también proporcionarán escoltas según lo desee la persona afligida.
 
+## 7. Tratamiento de quejas
 
-Additionally, community organizers are available to help community members engage with local law enforcement or to otherwise help those experiencing unacceptable behavior feel safe. In the context of in-person events, organizers will also provide escorts as desired by the person experiencing distress.
+Si cree que ha sido falsa o injustamente acusado de violar este Código de Conducta, debe notificarlo a Python España con una descripción concisa de su queja. Su queja será gestionada de acuerdo con nuestras políticas vigentes.
 
-## 7. Addressing Grievances
+## 8. Ámbito
 
-If you feel you have been falsely or unfairly accused of violating this Code of Conduct, you should notify Python Spain with a concise description of your grievance. Your grievance will be handled in accordance with our existing governing policies.
+Esperamos que todos los participantes de la comunidad (contribuyentes, pagados o no, patrocinadores y otros invitados) cumplan este Código de Conducta en todos los lugares de la comunidad -en línea y en persona-, así como en todas las comunicaciones personales de los asuntos de la comunidad.
 
+Este código de conducta y sus procedimientos relacionados también se aplican a comportamientos inaceptables que ocurren fuera del alcance de las actividades de la comunidad cuando tal comportamiento tiene el potencial de afectar adversamente la seguridad y el bienestar de los miembros de la comunidad.
 
-
-## 8. Scope
-
-We expect all community participants (contributors, paid or otherwise; sponsors; and other guests) to abide by this Code of Conduct in all community venues–online and in-person–as well as in all one-on-one communications pertaining to community business.
-
-This code of conduct and its related procedures also applies to unacceptable behavior occurring outside the scope of community activities when such behavior has the potential to adversely affect the safety and well-being of community members.
-
-## 9. Contact info
+## 9. Información de contacto
 
 contacto2017@es.python.org
 
-## 10. License and attribution
+## 10. Licencia y atribución
 
-This Code of Conduct is distributed under a [Creative Commons Attribution-ShareAlike license](http://creativecommons.org/licenses/by-sa/3.0/).
+Este Código de Conducta se distribuye bajo una [licencia Creative Commons Attribution-ShareAlike](http://creativecommons.org/licenses/by-sa/3.0/).
 
-Portions of text derived from the [Django Code of Conduct](https://www.djangoproject.com/conduct/) and the [Geek Feminism Anti-Harassment Policy](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy).
+Partes del texto derivadas del [Código de Conducta de Django](https://www.djangoproject.com/conduct/) y la [Política de Anti-Hostigamiento de Feminismo Geek](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy).
 
-Retrieved on November 22, 2016 from [http://citizencodeofconduct.org/](http://citizencodeofconduct.org/)
+Obtenido el 22 de noviembre de 2016 de [http://citizencodeofconduct.org/](http://citizencodeofconduct.org/)
