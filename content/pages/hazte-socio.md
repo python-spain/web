@@ -70,6 +70,11 @@ Triodos BANK IBAN
 ES18 1491 0001 2230 0008 5378
 ```
 
+## Quiero darme de baja
+
+Es una pena dejar de contar contigo, y nos encantará que vuelvas a la Asociación Python España cuando quieras. Para darte de baja tienes que enviar un correo a contacto2017@es.python.org indicando que te quieres dar de baja. Desde ese momento no te pasaremos ninguna domiciliación y te daremos de baja de los canales de socias y socios (actualmente la lista de socios y el telegram de socios). Aparte, te agradeceríamos si nos dijeras el motivo de tu baja, o qué te haría volver en un futuro.
+
+
 ## Notas generales
 
 * El correo electrónico desde el que se mande la documentación requerida quedará asociado al nuevo socio a menos que se indique otro correo electrónico de contacto.
