@@ -25,6 +25,7 @@ AUTHOR_FEED_RSS = None
 ICONS = (
     ('twitter', 'https://twitter.com/python_es'),
     ('github', 'https://github.com/python-spain'),
+    ('youtube', 'https://www.youtube.com/Python-España'),
 )
 
 DEFAULT_PAGINATION = 10
