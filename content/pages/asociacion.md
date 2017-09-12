@@ -6,6 +6,11 @@ La asociación fue creada en 2013 y desde entonces ha prestado apoyo contable y 
 
 Si quieres apoyar nuestra labor para que podamos abordar proyectos cada vez más ambiciosos, hazte socio. Estamos deseando escuchar tus propuestas.
 
+## Documentación
+
+Puedes acceder a los **estatutos**, **reglamento de régimen interno**, **actas** y otra documentación en este enlace:
+
+http://documentos-asociacion.es.python.org/
 
 ## Datos fiscales
 
