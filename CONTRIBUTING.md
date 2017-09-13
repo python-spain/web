@@ -71,7 +71,7 @@ Cuando hayas terminado de editar, haz click sobre el botón "_Propose new file_"
 
 El sitio web de la asociación Python España pretende facilitar el acceso a las comunidades locales de Python. Por ello, si conoces una comunidad regional o local que realice actividades relacionadas con el lenguaje, te pedimos que la [añadas a nuestro mapa de comunidades](https://github.com/python-spain/web/edit/master/content/pages/comunidades.md).
 
-Para añadir una nueva comunidad necesitarás su latitud y longitud en el globo, el nombre de la comunidad y la dirección web. Localiza el texto que pone:
+Para añadir una nueva comunidad necesitarás [encontrar su latitud y longitud](http://www.mapcoordinates.net/en) en el globo, el nombre de la comunidad y la dirección web. Localiza el texto que pone:
 
 ```js
 var locations = [
@@ -80,7 +80,7 @@ var locations = [
 Y, **a continuación**, incluye una línea con el siguiente formato:
 
 ```
-[longitud, latitud, 'Nombre de la comunidad', 'dirección web'],
+[latitud, longitud, 'Nombre de la comunidad', 'dirección web'],
 ```
 
 Respeta los corchetes (`[` y `]`), las comillas simples (`'`) que encierran el nombre de la comunidad y la dirección web; conserva también las comas y la coma tras el corchete de cierre. Un ejemplo válido sería la línea del encuentro Python de Murcia:
