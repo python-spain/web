@@ -22,7 +22,7 @@ Si prefieres pasar a la acción, habrás de comenzar [creando una cuenta en GitH
 
 El contenido del sitio web de la asociación se encuentra en el directorio [content](https://github.com/python-spain/web/tree/master/content) y está escrito en [Markdown](https://daringfireball.net/projects/markdown/syntax), lenguage de marcado sencillo que habrás de utilizar.
 
-Las revisiones por parte del equipo editorial se realizan a través de la web de GitHub y, aunque el procedimiento es bastante intuitivo, habrás de [familiarizarte con el procedimiento de revisión](#proceso-de-revision).
+Las revisiones por parte del equipo editorial se realizan a través de la web de GitHub y, aunque el procedimiento es bastante intuitivo, habrás de [familiarizarte con el procedimiento de revisión](#proceso-de-revisión).
 
 > **NOTA**: si prefieres editar el proyecto en un equipo local utilizando git, consulta la sección [Manteniendo el repositorio](#manteniendo-el-repositorio) donde se explica cómo descargar, configurar y probar el sitio web.
 
