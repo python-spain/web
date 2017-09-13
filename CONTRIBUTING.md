@@ -9,6 +9,7 @@ Recuerda que contribuir a este repositorio supone la aceptación de nuestro [có
 La forma más sencilla de contribuir con la página web es informar de un error detectado. Introduce un título corto y, en el espacio para comentarios, indica la dirección web donde detectaste el problema, y añade una pequeña descripción del mismo. Recuerda que puedes **añadir imágenes**, como capturas de pantalla, arrastrando la imagen sobre el editor. Por ejemplo:
 
 > **Title**: Hay muy poco espacio entre títulos y contenido
+>
 > **Leave a comment**:
 > En la sección "¡hazte socio!": https://es.python.org/pages/hazte-socio.html
 > Hay muy poco espacio entre los títulos grandes y los subtítulos o contenido
@@ -43,7 +44,7 @@ Introduce un nombre para el nuevo archivo con el formato `AAAA-MM-DD-titulo-del-
 Un artículo está compuesto de dos secciones, metadatos y contenido, separadas por dos líneas vacías. Los metadatos **son obligatorios** y sirven para clasificar el artículo. Son los siguientes:
 
 | Clave   | Descripción                                  |
-==========================================================
+|---------|----------------------------------------------|
 | Title   | Título del artículo                          |
 | Date    | Fecha de publicación en formato `AAAA-MM-DD` |
 | Summary | Resúmen o extracto del artículo              |
