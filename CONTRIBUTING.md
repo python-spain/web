@@ -12,6 +12,7 @@ La forma más sencilla de contribuir con la página web es informar de un error 
 >
 > **Leave a comment**:
 > En la sección "¡hazte socio!": https://es.python.org/pages/hazte-socio.html
+>
 > Hay muy poco espacio entre los títulos grandes y los subtítulos o contenido
 > y esto dificulta la lectura.
 
@@ -21,9 +22,9 @@ Si prefieres pasar a la acción, habrás de comenzar [creando una cuenta en GitH
 
 El contenido del sitio web de la asociación se encuentra en el directorio [content](https://github.com/python-spain/web/tree/master/content) y está escrito en [Markdown](https://daringfireball.net/projects/markdown/syntax), lenguage de marcado sencillo que habrás de utilizar.
 
-Las revisiones por parte del equipo editorial se realizan a través de la web de GitHub y, aunque el procedimiento es bastante intuitivo, habrás de [familiarizarte con el procedimiento de revisión]().
+Las revisiones por parte del equipo editorial se realizan a través de la web de GitHub y, aunque el procedimiento es bastante intuitivo, habrás de [familiarizarte con el procedimiento de revisión](#proceso-de-revision).
 
-> **NOTA**: Si prefieres editar el proyecto en un equipo local, consulta la sección [Manteniendo el repositorio](#manteniendo-el-repositorio) donde se explica cómo descargar, configurar y probar la página web.
+> **NOTA**: si prefieres editar el proyecto en un equipo local utilizando git, consulta la sección [Manteniendo el repositorio](#manteniendo-el-repositorio) donde se explica cómo descargar, configurar y probar el sitio web.
 
 ### Corrigiendo una errata
 
@@ -82,7 +83,7 @@ Y, **a continuación**, incluye una línea con el siguiente formato:
 [longitud, latitud, 'Nombre de la comunidad', 'dirección web'],
 ```
 
-Respeta los corchetes (`[` y `]`), las comillas simples (`'`) que encierran el nombre de la comunidad y la dirección web y la coma tras el corchete de cierre. Un ejemplo válido sería la línea del encuentro Python de Murcia:
+Respeta los corchetes (`[` y `]`), las comillas simples (`'`) que encierran el nombre de la comunidad y la dirección web; conserva también las comas y la coma tras el corchete de cierre. Un ejemplo válido sería la línea del encuentro Python de Murcia:
 
 ```
 [38.01348, -1.17376, 'Python Meetup Murcia', 'http://www.meetup.com/es-ES/Meetup-de-Python-en-Murcia/'],
@@ -93,3 +94,15 @@ Respeta los corchetes (`[` y `]`), las comillas simples (`'`) que encierran el n
 ### Configuración del proyecto
 
 ### Probando en local
+
+## Proceso de revisión
+
+Cuando propongas algún cambio, GitHub creará un _pull request_ y el equipo editorial realizará una revisión del mismo. GitHub te notificará en tu correo electrónico las actualizaciones en la revisión.
+
+Atiende los cambios que te hayan pedido y discute cívicamente aquellos en los que no estés de acuerdo añadiendo tus propios comentarios (podrás utilizar la [variante GitHub de Markdown](https://guides.github.com/features/mastering-markdown/) para ello).
+
+Recuerda que puedes editar el fichero directamente desde el navegador situándote en la página del _pull request_, pestaña "_Files changed_", y haciendo click en el botón etiquetado "_Change this file using the online editor_" y representado con el icono del lápiz.
+
+Solucionar los problemas de un _pull request_ puede no ser el paso final. El proceso de revisión puede repetirse. Atiende las sucesivas revisiones y el equipo editorial aceptará tus cambios cuando todos los problemas se hayan solucionado.
+
+Recuerda que tanto los editores y administradores del repositorio, como tú, somos parte de esta comunidad y estamos sujetos al [código de conducta](https://github.com/python-spain/web/blob/master/CODE_OF_CONDUCT.md#code-of-conduct). Informa de los abusos que observes en las _pull request_ (incluso cuando no sean las tuyas) en contacto2017@es.python.org
