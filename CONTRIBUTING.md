@@ -24,7 +24,7 @@ El contenido del sitio web de la asociación se encuentra en el directorio [`con
 
 Las revisiones por parte del equipo editorial se realizan a través de la web de GitHub y, aunque el procedimiento es bastante intuitivo, habrás de [familiarizarte con el procedimiento de revisión](#proceso-de-revisión).
 
-> **NOTA**: si prefieres tareas más técnicas o editar el proyecto en un equipo local utilizando `git`, consulta el [README](https://github.com/python-spain/#sitio-web-de-la-asociación-python-españa) donde se explica cómo descargar, configurar y probar el sitio web.
+> **NOTA**: si prefieres tareas más técnicas o editar el proyecto en un equipo local utilizando `git`, consulta el [README](https://github.com/python-spain/web/#sitio-web-de-la-asociación-python-españa) donde se explica cómo descargar, configurar y probar el sitio web.
 
 ### Corrigiendo una errata
 
@@ -93,7 +93,7 @@ Respeta los corchetes (`[` y `]`), las comillas simples (`'`) que encierran el n
 
 No todo es crear contenido. La web también necesita un mantenimiento tanto de de sus capacidades, como de su estructura y diseño. Otra forma de contribuir con el sitio web de la asociación Python España es echando un [vistazo a las _issues_ abiertas](https://github.com/python-spain/web/issues), escoger una y solucionarla.
 
-Estas tareas son técnicas y es recomendable trabajar en un entorno de desarrollo local, utilizando `git` para clonar el repositorio. Consulta el [README](https://github.com/python-spain/#sitio-web-de-la-asociación-python-españa) donde se explica cómo descargar, configurar y probar el sitio web.
+Estas tareas son técnicas y es recomendable trabajar en un entorno de desarrollo local, utilizando `git` para clonar el repositorio. Consulta el [README](https://github.com/python-spain/web/#sitio-web-de-la-asociación-python-españa) donde se explica cómo descargar, configurar y probar el sitio web.
 
 ## Proceso de revisión
 

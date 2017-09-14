@@ -13,7 +13,7 @@ Si quieres contribuir creando contendio, repasa nuestra [guía de contribución]
 
 ### Prerequisitos
 
-Probar el sitio web en local requiere [make](https://www.gnu.org/software/make/), [git](https://git-scm.com/downloads), [pip](https://pip.pypa.io/en/stable/installing/) y [Python 2.7.x or 3.3+](https://www.python.org/downloads/). La siguiente guía asume que trabajas con Python 3.
+Probar el sitio web en local requiere [`make`](https://www.gnu.org/software/make/), [`git`](https://git-scm.com/downloads), [`pip`](https://pip.pypa.io/en/stable/installing/) y [Python 2.7.x or 3.3+](https://www.python.org/downloads/). La siguiente guía asume que trabajas con Python 3.
 
 ### Clonando el repositorio
 
@@ -32,7 +32,7 @@ Los dos últimos comandos [instalan el tema Alchemy de pelican como un submódul
 
 > **NOTA**: Es opcional pero áltamente recomendable [trabajar en un entorno virtual de Python](#trabajar-en-un-entorno-virtual).
 
-Las dependencias del sitio web se encuentran en el archivo `requirements.txt`. Instala las dependencias con pip:
+Las dependencias del sitio web se encuentran en el archivo `requirements.txt`. Instala las dependencias con `pip`:
 
 ```sh
 $ pip install -r requirements.txt
