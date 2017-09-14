@@ -103,3 +103,4 @@ ENV/
 # Pelican
 output/
 srv.pid
+pelican.pid
