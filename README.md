@@ -7,13 +7,17 @@ Este sitio web ha sido generado utilizando el generador de sitios web estáticos
 
 El contenido está escrito en [Markdown](https://daringfireball.net/projects/markdown/syntax) y se encuentra localizado dentro de la carpeta [`contents`](https://github.com/python-spain/web/tree/master/content).
 
-Si quieres contribuir creando contendio, repasa nuestra [guía de contribución](https://github.com/python-spain/web/tree/master/CONTRIBUTING.md). Al participar en esta comunidad, aceptas y te comprometes a cumplir nuestro [código de conducta](https://github.com/python-spain/web/tree/master/CODE_OF_CONDUCT.md).
+No necesitas conocimientos técnicos para añadir nuevo contenido a la web o editar el existente. Lee nuestra [guía de contribución](https://github.com/python-spain/web/tree/master/CONTRIBUTING.md) para aprender cómo proponer cambios desde el navegador.
+
+Sin embargo, puedes [continuar leyendo](#prerrequisitos) si quieres probar el proyecto en un entorno de desarrollo local.
+
+Recuerda que al participar en esta comunidad, aceptas y te comprometes a cumplir nuestro [código de conducta](https://github.com/python-spain/web/tree/master/CODE_OF_CONDUCT.md).
 
 ## Instalación del sitio web
 
-### Prerequisitos
+### Prerrequisitos
 
-Probar el sitio web en local requiere [`make`](https://www.gnu.org/software/make/), [`git`](https://git-scm.com/downloads), [`pip`](https://pip.pypa.io/en/stable/installing/) y [Python 2.7.x or 3.3+](https://www.python.org/downloads/). La siguiente guía asume que trabajas con Python 3.
+Probar el sitio web en local requiere un entorno UNIX y los programas [`make`](https://www.gnu.org/software/make/), [`git`](https://git-scm.com/downloads), [`pip`](https://pip.pypa.io/en/stable/installing/) y [Python 2.7.x or 3.3+](https://www.python.org/downloads/). La siguiente guía asume que trabajas con Python 3.
 
 ### Clonando el repositorio
 
@@ -70,4 +74,8 @@ $ make devserver
 
 Por defecto, el servidor escucha en `http://localhost:8000`. Con este comando, las carpetas `themes` y `content` serán monitorizadas y el sitio web se regenerará automáticamente si el contenido cambia.
 
-Si necesitas más información sobre los comandos de `make` que puedes utilizar, [consulta el manual de Pelican](http://docs.getpelican.com/en/stable/publish.html?highlight=make#make).
+Si necesitas más información sobre los comandos de `make` que puedes utilizar, [consulta el manual de Pelican](http://docs.getpelican.com/en/stable/publish.html?highlight=make#make) o lanza el comando:
+
+```sh
+$ make
+```

@@ -18,7 +18,7 @@ y esto dificulta la lectura.
 
 ## Escribiendo contenido
 
-Si prefieres pasar a la acción, habrás de comenzar [creando una cuenta en GitHub](https://github.com/join) y [haciendo una copia](https://github.com/python-spain/web/fork) (_fork_) del repositorio. Con ello **podrás editar los archivos del sitio web desde el navegador**.
+Si prefieres pasar a la acción, habrás de comenzar [creando una cuenta en GitHub](https://github.com/join) y [haciendo una copia](https://github.com/python-spain/web/fork) (_fork_) del repositorio. Con ello **podrás [administrar los archivos del sitio web desde el navegador](https://help.github.com/articles/managing-files-on-github/)**.
 
 El contenido del sitio web de la asociación se encuentra en el directorio [`content`](https://github.com/python-spain/web/tree/master/content) y está escrito en [Markdown](https://daringfireball.net/projects/markdown/syntax), lenguage de marcado sencillo que habrás de utilizar.
 
@@ -26,9 +26,9 @@ Las revisiones por parte del equipo editorial se realizan a través de la web de
 
 > **NOTA**: si prefieres tareas más técnicas o editar el proyecto en un equipo local utilizando `git`, consulta el [README](https://github.com/python-spain/web/#sitio-web-de-la-asociación-python-españa) donde se explica cómo descargar, configurar y probar el sitio web.
 
-### Corrigiendo una errata
+### Editando contenido ya existente
 
-Para editar contenido desde GitHub, tendrás que haber hecho una [copia del repositorio](https://github.com/python-spain/web/fork) a tu cuenta. Lee la sección [Escribiendo contenido](#escribiendo-contenido) para más información.
+Para [editar contenido desde GitHub](https://help.github.com/articles/editing-files-in-another-user-s-repository/), tendrás que haber hecho una [copia del repositorio](https://github.com/python-spain/web/fork) a tu cuenta. Lee la sección [Escribiendo contenido](#escribiendo-contenido) para más información.
 
 Teniendo tu copia, explora el [repositorio original de la asociación](https://github.com/python-spain/web/) y localiza el artículo o página donde se encuentre el error. Si se trata de un artículo, estará bajo la carpeta [`content`](https://github.com/python-spain/web/tree/master/content) directamente. Si se trata de una página, estará bajo la carpeta [`pages`](https://github.com/python-spain/web/tree/master/content/pages).
 
@@ -94,6 +94,12 @@ Respeta los corchetes (`[` y `]`), las comillas simples (`'`) que encierran el n
 No todo es crear contenido. La web también necesita un mantenimiento tanto de de sus capacidades, como de su estructura y diseño. Otra forma de contribuir con el sitio web de la asociación Python España es echando un [vistazo a las _issues_ abiertas](https://github.com/python-spain/web/issues), escoger una y solucionarla.
 
 Estas tareas son técnicas y es recomendable trabajar en un entorno de desarrollo local, utilizando `git` para clonar el repositorio. Consulta el [README](https://github.com/python-spain/web/#sitio-web-de-la-asociación-python-españa) donde se explica cómo descargar, configurar y probar el sitio web.
+
+## Mejorando la documentación
+
+Uno de los objetivos de este repositorio es que sea accesible y fácil de editar para personas sin perfil técnico. Esta guía, por ejemplo, recoge cómo realizar modificaciones diréctamente desde la web. Sin embargo el contenido no es perfecto y seguro que hay mejores maneras de explicar algo o cuestiones que podrían aclararse con una imagen.
+
+Mejorar los documentos [`README.md`](https://github.com/python-spain/web/tree/master/README.md) y [`CONTRIBUTING.md`](https://github.com/python-spain/web/tree/master/CONTRIBUTING.md) es también una forma útil de contribuir con la asociación. Utiliza el mismo procedimiento explicado en la sección [Editando contenido ya existente](#editando-contenido-ya-existente) para proponer cambios en estos ficheros.
 
 ## Proceso de revisión
 
