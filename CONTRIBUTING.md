@@ -2,35 +2,35 @@
 
 Existen muchas formas de contribuir con [Python España](http://es.python.org). Escribir contenido para la página web, mantener la información contenida actualizada, [detectar problemas](https://github.com/python-spain/web/issues/new) o corregirlos son formas efectivas de mejorar la comunidad.
 
-Recuerda que contribuir a este repositorio supone la aceptación de nuestro [código de conducta](https://github.com/python-spain/web/blob/master/CODE_OF_CONDUCT.md#code-of-conduct).
+Recuerda que, tanto contribuir a este repositorio como administrarlo, supone la aceptación de nuestro [código de conducta](https://github.com/python-spain/web/blob/master/CODE_OF_CONDUCT.md#code-of-conduct).
 
 ## Informando de un problema
 
 La forma más sencilla de contribuir con la página web es informar de un error detectado. Introduce un título corto y, en el espacio para comentarios, indica la dirección web donde detectaste el problema, y añade una pequeña descripción del mismo. Recuerda que puedes **añadir imágenes**, como capturas de pantalla, arrastrando la imagen sobre el editor. Por ejemplo:
 
-> **Title**: Hay muy poco espacio entre títulos y contenido
->
-> **Leave a comment**:
-> En la sección "¡hazte socio!": https://es.python.org/pages/hazte-socio.html
->
-> Hay muy poco espacio entre los títulos grandes y los subtítulos o contenido
-> y esto dificulta la lectura.
+```
+Dónde pone "title": Hay muy poco espacio entre títulos y contenido
+Dónde pone "leave a comment":
+En la sección "¡hazte socio!": https://es.python.org/pages/hazte-socio.html
+Hay muy poco espacio entre los títulos grandes y los subtítulos o contenido
+y esto dificulta la lectura.
+```
 
 ## Escribiendo contenido
 
 Si prefieres pasar a la acción, habrás de comenzar [creando una cuenta en GitHub](https://github.com/join) y [haciendo una copia](https://github.com/python-spain/web/fork) (_fork_) del repositorio. Con ello **podrás editar los archivos del sitio web desde el navegador**.
 
-El contenido del sitio web de la asociación se encuentra en el directorio [content](https://github.com/python-spain/web/tree/master/content) y está escrito en [Markdown](https://daringfireball.net/projects/markdown/syntax), lenguage de marcado sencillo que habrás de utilizar.
+El contenido del sitio web de la asociación se encuentra en el directorio [`content`](https://github.com/python-spain/web/tree/master/content) y está escrito en [Markdown](https://daringfireball.net/projects/markdown/syntax), lenguage de marcado sencillo que habrás de utilizar.
 
 Las revisiones por parte del equipo editorial se realizan a través de la web de GitHub y, aunque el procedimiento es bastante intuitivo, habrás de [familiarizarte con el procedimiento de revisión](#proceso-de-revisión).
 
-> **NOTA**: si prefieres editar el proyecto en un equipo local utilizando git, consulta la sección [Manteniendo el repositorio](#manteniendo-el-repositorio) donde se explica cómo descargar, configurar y probar el sitio web.
+> **NOTA**: si prefieres tareas más técnicas o editar el proyecto en un equipo local utilizando `git`, consulta el [README](https://github.com/python-spain/#sitio-web-de-la-asociación-python-españa) donde se explica cómo descargar, configurar y probar el sitio web.
 
 ### Corrigiendo una errata
 
 Para editar contenido desde GitHub, tendrás que haber hecho una [copia del repositorio](https://github.com/python-spain/web/fork) a tu cuenta. Lee la sección [Escribiendo contenido](#escribiendo-contenido) para más información.
 
-Teniendo tu copia, explora el [repositorio original de la asociación](https://github.com/python-spain/web/) y localiza el artículo o página donde se encuentre el error. Si se trata de un artículo, estará bajo la carpeta [content](https://github.com/python-spain/web/tree/master/content) directamente. Si se trata de una página, estará bajo la carpeta [pages](https://github.com/python-spain/web/tree/master/content/pages).
+Teniendo tu copia, explora el [repositorio original de la asociación](https://github.com/python-spain/web/) y localiza el artículo o página donde se encuentre el error. Si se trata de un artículo, estará bajo la carpeta [`content`](https://github.com/python-spain/web/tree/master/content) directamente. Si se trata de una página, estará bajo la carpeta [`pages`](https://github.com/python-spain/web/tree/master/content/pages).
 
 Una vez hayas encontrado el fichero, edita el contenido desde GitHub, corrige el error pertinente y envía el cambio haciendo click en el botón "_Propose file change_".
 
@@ -38,7 +38,7 @@ Una vez hayas encontrado el fichero, edita el contenido desde GitHub, corrige el
 
 Recuerda que para editar contenido desde GitHub, necesitas haber hecho una [copia del repositorio](https://github.com/python-spain/web/fork) a tu cuenta. Lee la sección [Escribiendo contenido](#escribiendo-contenido) si aun no lo has hecho.
 
-Si quieres añadir un artículo, entra en la carpeta [content](https://github.com/python-spain/web/tree/master/content) y haz click en el botón "_Create new file_".
+Si quieres añadir un artículo, entra en la carpeta [`content`](https://github.com/python-spain/web/tree/master/content) y haz click en el botón "_Create new file_".
 
 Introduce un nombre para el nuevo archivo con el formato `AAAA-MM-DD-titulo-del-post.md` (donde `AAAA-MM-DD` es la fecha en la que te gustaría publicar el post). No incluyas ni tildes ni espacios y si no estas seguro sobre la fecha, pon la de hoy. Un ejemplo de título válido es `2017-09-03-domiciliacion-cuotas.md`.
 
@@ -89,11 +89,11 @@ Respeta los corchetes (`[` y `]`), las comillas simples (`'`) que encierran el n
 [38.01348, -1.17376, 'Python Meetup Murcia', 'http://www.meetup.com/es-ES/Meetup-de-Python-en-Murcia/'],
 ```
 
-## Manteniendo el repositorio
+## Manteniendo el sitio web
 
-### Configuración del proyecto
+No todo es crear contenido. La web también necesita un mantenimiento tanto de de sus capacidades, como de su estructura y diseño. Otra forma de contribuir con el sitio web de la asociación Python España es echando un [vistazo a las _issues_ abiertas](https://github.com/python-spain/web/issues), escoger una y solucionarla.
 
-### Probando en local
+Estas tareas son técnicas y es recomendable trabajar en un entorno de desarrollo local, utilizando `git` para clonar el repositorio. Consulta el [README](https://github.com/python-spain/#sitio-web-de-la-asociación-python-españa) donde se explica cómo descargar, configurar y probar el sitio web.
 
 ## Proceso de revisión
 
