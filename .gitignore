@@ -100,4 +100,7 @@ ENV/
 # mypy
 .mypy_cache/
 
+# Pelican
 output/
+srv.pid
+pelican.pid
