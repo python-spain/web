@@ -1,5 +1,5 @@
 Title: Cómo contribuir con la web de la asociación
-Date: 2017-09-28
+Date: 2017-10-10
 Summary: Hemos preparado la documentación necesaria para que contribuir con la página web de la asociación sea sencillo y placentero.
 Author: Salva de la Puente
 
