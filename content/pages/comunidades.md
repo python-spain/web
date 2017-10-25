@@ -50,6 +50,7 @@ var locations = [
 [40.4126148,-3.7138357, 'PyData Madrid', 'https://www.meetup.com/PyData-Madrid/'],
 [39.6149,2.9527, 'PyData Mallorca', 'https://www.meetup.com/PyData-Mallorca/'],
 [36.842512, -2.457619, 'Python Almería', 'https://www.meetup.com/Python-Almeria/'],
+[40.417037, -3.702626, 'PyLadies Madrid', 'https://www.meetup.com/es-ES/PyLadiesMadrid/']
 ]
 locations.forEach(addLocation)
 </script>
