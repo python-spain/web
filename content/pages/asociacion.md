@@ -27,9 +27,9 @@ Actualmente la **Junta Directiva de Python España** (2016-2018) está formada p
 
 |  Cargo            |  Nombre                   |  Email                               |
 | ----------------- | ------------------------- | ------------------------------------ |
-|  Presidente       |  Juan Luis Cano           |  presidencia2017@es.python.org       |
-|  Vicepresidente   |  Miguel González          |  vicepresidencia2017@es.python.org   |
-|  Tesorera         |  Yamila Moreno            |  tesoreria2017@es.python.org         |
-|  Secretario       |  Antoni Aloy              |  secretaria2017@es.python.org        |
+|  Presidente       |  Juan Luis Cano           |  presidencia2018@es.python.org       |
+|  Vicepresidente   |  Miguel González          |  vicepresidencia2018@es.python.org   |
+|  Tesorera         |  Yamila Moreno            |  tesoreria2018@es.python.org         |
+|  Secretario       |  Antoni Aloy              |  secretaria2018@es.python.org        |
 |  Vocal            |  Mai Gimenez              |                                      |
 |  Vocal            |  Juan Ignacio Rodríguez   |                                      |
