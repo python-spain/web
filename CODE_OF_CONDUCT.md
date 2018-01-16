@@ -54,7 +54,7 @@ Si un miembro de la comunidad incurre en un comportamiento inaceptable, los orga
 
 ## 6. Pautas para presentar una queja
 
-Si usted es víctima o testigo de un comportamiento inaceptable, o tiene cualquier otra inquietud, por favor notifíquelo a un organizador de la comunidad en contacto2017@es.python.org, tan pronto como sea posible.
+Si usted es víctima o testigo de un comportamiento inaceptable, o tiene cualquier otra inquietud, por favor notifíquelo a un organizador de la comunidad en contacto2018@es.python.org, tan pronto como sea posible.
 
 Al contactar, indique el nombre del evento y en qué parte de las instalaciones se está produciendo la violación del código de conducta, y explique brevemente la naturaleza del incidente.
 
@@ -62,7 +62,7 @@ Los organizadores de la comunidad facilitarán el contacto por parte de los miem
 
 ## 7. Cómo recurrir quejas
 
-Si cree que ha sido falsa o injustamente acusado de violar este código de conducta, debe notificarlo a Python España, en contacto2017@es.python.org, con una descripción concisa de su queja. Esta será gestionada de acuerdo con nuestras políticas vigentes.
+Si cree que ha sido falsa o injustamente acusado de violar este código de conducta, debe notificarlo a Python España, en contacto2018@es.python.org, con una descripción concisa de su queja. Esta será gestionada de acuerdo con nuestras políticas vigentes.
 
 ## 8. Ámbito
 
@@ -72,7 +72,7 @@ Este código de conducta y sus procedimientos relacionados también se aplican a
 
 ## 9. Información de contacto
 
-contacto2017@es.python.org
+contacto2018@es.python.org
 
 ## 10. Licencia y atribución
 

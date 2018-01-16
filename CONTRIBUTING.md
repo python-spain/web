@@ -107,4 +107,4 @@ Recuerda que puedes editar el fichero directamente desde el navegador, situándo
 
 Solucionar los problemas de un _pull request_ puede no ser el paso final. El proceso de revisión puede repetirse. Atiende las sucesivas revisiones y el equipo editorial aceptará tus cambios cuando todos los problemas se hayan resuelto.
 
-Recuerda que tanto los editores y administradores del repositorio, como tú, somos parte de esta comunidad y estamos sujetos al [código de conducta](https://github.com/python-spain/web/blob/master/CODE_OF_CONDUCT.md#code-of-conduct). Informa de los abusos que observes en las _pull request_ (incluso cuando no sean las tuyas) en contacto2017@es.python.org
+Recuerda que tanto los editores y administradores del repositorio, como tú, somos parte de esta comunidad y estamos sujetos al [código de conducta](https://github.com/python-spain/web/blob/master/CODE_OF_CONDUCT.md#code-of-conduct). Informa de los abusos que observes en las _pull request_ (incluso cuando no sean las tuyas) en contacto2018@es.python.org
