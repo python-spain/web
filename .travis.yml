@@ -15,7 +15,7 @@ addons:
 install:
   - pip install -r requirements.txt
 
-script: pelican content
+script: pelican content --fatal errors
 
 deploy:
   - provider: script
