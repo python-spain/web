@@ -1,3 +1,8 @@
+Title: Django Girls Palma 2018
+Date: 2018-02-27
+Summary: El 17 de febrero de 2018 tuvo lugar en Palma la primera edición de las Django Girls Palma, un taller que acogió a casi 90 participantes entre alumnas, mentoras, mentores y organización.
+
+
 El pasado 17 de Febrero en Palma tuvo lugar la primera edición de [Django Girls Palma](https://djangogirls.org/palma/). El evento tuvo lugar en las instalaciones de la UIB, en el Edificio Gaspar Melchor de Jovellanos y contó con casi 90 participantes entre organización, alumnas, mentores i mentoras y sponsors. Enmarcado dentro de la iniciativa [#11FBalears](https://twitter.com/hashtag/11fbalears?src=hash) de [promoción de las mujeres en las carreras STEM](blog.fundaciobit.org/11fbalears/).
 
 Organizado por [Mabel](https://twitter.com/mabeldelgadob), [Antònia](https://twitter.com/antoniatugores) y [Antoni](https://twitter.com/aaloy)
