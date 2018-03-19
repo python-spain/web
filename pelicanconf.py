@@ -26,6 +26,7 @@ ICONS = (
     ('twitter', 'https://twitter.com/python_es'),
     ('github', 'https://github.com/python-spain'),
     ('youtube', 'https://www.youtube.com/c/PythonEspa%C3%B1aOficial'),
+    ('globe', 'http://planet.es.python.org'),
 )
 
 DEFAULT_PAGINATION = 10
