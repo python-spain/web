@@ -26,12 +26,13 @@ ICONS = (
     ('twitter', 'https://twitter.com/python_es'),
     ('github', 'https://github.com/python-spain'),
     ('youtube', 'https://www.youtube.com/c/PythonEspa%C3%B1aOficial'),
+    ('globe', 'http://planet.es.python.org'),
 )
 
 DEFAULT_PAGINATION = 10
 
 # Uncomment following line if you want document-relative URLs when developing
-#RELATIVE_URLS = True
+# RELATIVE_URLS = True
 
 THEME = 'themes/pelican-alchemy/alchemy'
 
