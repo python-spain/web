@@ -25,11 +25,11 @@ Calle La Botánica, 4, 1º
 
 Actualmente la **Junta Directiva de Python España** (2016-2018) está formada por:
 
-|  Cargo            |  Nombre                   |  Email                               |
-| ----------------- | ------------------------- | ------------------------------------ |
-|  Presidente       |  Juan Luis Cano           |  presidencia2018@es.python.org       |
-|  Vicepresidente   |  Mario Corchero           |  vicepresidencia2018@es.python.org   |
-|  Tesorero         |  Marcos Gabarda           |  tesoreria2018@es.python.org         |
-|  Secretaria       |  Mai Gimenez              |  secretaria2018@es.python.org        |
-|  Vocal            |  Mabel Delgado            |  vocalia2018@es.python.org           |
-|  Vocal            |  Pablo Galindo            |  vocalia2018@es.python.org           |
+|  Cargo            |  Nombre                   |  Email                           |
+| ----------------- | ------------------------- | -------------------------------- |
+|  Presidente       |  Juan Luis Cano           |  presidencia@es.python.org       |
+|  Vicepresidente   |  Mario Corchero           |  vicepresidencia@es.python.org   |
+|  Tesorero         |  Marcos Gabarda           |  tesoreria@es.python.org         |
+|  Secretaria       |  Mai Gimenez              |  secretaria@es.python.org        |
+|  Vocal            |  Mabel Delgado            |  vocalia@es.python.org           |
+|  Vocal            |  Pablo Galindo            |  vocalia@es.python.org           |
