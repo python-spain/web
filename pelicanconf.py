@@ -38,3 +38,27 @@ DEFAULT_PAGINATION = 10
 THEME = 'themes/pelican-alchemy/alchemy'
 
 STATIC_PATHS = ['images']
+
+
+def open_absolute_urls_in_blank(attrs, new=False):
+    """Detect abosulte URLs (i.e. those starting with the http(s) protocol
+    and force them to be open in a new window/tab."""
+
+    _href = attrs.get((None, 'href'), 'nada')
+    if _href.startswith('http://') or _href.startswith('https://'):
+        attrs[(None, 'target')] = '_blank'
+
+    return attrs
+
+# Configure MARKDOWN extension according to:
+# https://github.com/getpelican/pelican/wiki/Tips-n-Tricks
+
+MARKDOWN = {
+    'extensions': ['mdx_linkify'],
+    'extension_configs': {
+        'markdown.extensions.extra': {},
+        'markdown.extensions.headerid': {},
+        'linkify': {'linkify_callbacks': [open_absolute_urls_in_blank]}
+    },
+    'output_format': 'html5'
+}
