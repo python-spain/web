@@ -36,11 +36,13 @@ Los grupos que estén interesados en organizar la PyConES 2018 deberán enviar u
 
 Hay memorias de las ediciones de 2013 y 2015 (inacabada) para quien quiera llevarse algunas ideas.
 
-* <a href="http://memoria-pycones-2013.readthedocs.io/" target="_new">Memoria PyConES 2013</a>
+* [Memoria PyConES 2013](http://memoria-pycones-2013.readthedocs.io/)
 
-* <a href="" target="_new">Memoria PyConES 2015</a>
+* [Memoria PyConES 2015]()
 
-Aquí os dejamos también la propuesta de Cáceres como referencia: <a href="https://drive.google.com/open?id=0B8R20_X-phP_NGFZNXF5UEE5NDQ" target="_new">https://drive.google.com/open?id=0B8R20_X-phP_NGFZNXF5UEE5NDQ</a>
+Aquí os dejamos también la propuesta de Cáceres como referencia:
+
+https://drive.google.com/open?id=0B8R20_X-phP_NGFZNXF5UEE5NDQ
 
 Además, desde la Junta estaremos encantados de resolveros las dudas iniciales que tengáis, presupuestos y datos de todo tipo con quienes lo solicitéis. Contactad con nosotros y contadnos un poco vuestra visión si no tenéis claro cómo enfocarla. Podemos tener una teleconferencia y compartir ideas.
 
