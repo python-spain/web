@@ -10,6 +10,6 @@ Hasta hace poco la asociación estaba atada a un banco con condiciones draconian
 
 Desde hace unos meses, conseguimos abrir una cuenta en Tríodos. El papeleo parecía no tener fin, pero nos ofrecían condiciones muy atractivas, especialmente para poder ofrecer nuevos servicios a los socios. Además de la domiciliación, hemos propuesto una forma de hacer que todas las cuotas se paguen en febrero, tanto las domiciliadas como las renovaciones manuales: esto facilitará el trabajo que hacemos desde tesorería y secretaría. Si renuevas tu cuota manualmente, considera pasar a pagarla en febrero por favor.
 
-En <a href="https://es.python.org/pages/hazte-socio.html" target="_blank">la página "Hazte socio"</a> está explicado el procedimiento en detalle. Si no queda claro o tenéis sugerencias, podéis contactar a través de la lista de correo de Python España o enviando un email a <a href="mailto:contacto2017@es.python.org">contacto2017@es.python.org</a>.
+En [la página "Hazte socio"](https://es.python.org/pages/hazte-socio.html) está explicado el procedimiento en detalle. Si no queda claro o tenéis sugerencias, podéis contactar a través de la lista de correo de Python España o enviando un email a [contacto2017@es.python.org](mailto:contacto2017@es.python.org).
 
 El equipo de Junta directiva ponemos mucha ilusión y esfuerzo por ir mejorando poco a poco la Asociación. Si tenéis ideas, hacelas llegar por los canales habituales, para que sepamos qué os gustaría como socios y socias tener en la Asociación.
