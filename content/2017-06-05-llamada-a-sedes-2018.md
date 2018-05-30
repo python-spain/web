@@ -36,9 +36,9 @@ Los grupos que estén interesados en organizar la PyConES 2018 deberán enviar u
 
 Hay memorias de las ediciones de 2013 y 2015 (inacabada) para quien quiera llevarse algunas ideas.
 
-* [Memoria PyConES 2013](http://memoria-pycones-2013.readthedocs.io/)
+* [Memoria PyConES 2013](https://memoria-pycones-2013.readthedocs.io/)
 
-* [Memoria PyConES 2015]()
+* [Memoria PyConES 2015](https://memoria-pycones-2015.readthedocs.io/)
 
 Aquí os dejamos también la propuesta de Cáceres como referencia:
 
