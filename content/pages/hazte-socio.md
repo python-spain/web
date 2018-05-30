@@ -5,61 +5,37 @@ Este documento detalla el procedimiento que ha establecido Python España para q
 
 ## Quiero asociarme
 
-**1.1. Quiero domiciliar el pago**
+Realiza la transferencia correspondiente(*) a la cuenta de la asociación indicando en el **asunto el DNI/NIE** y en **destinatario "Asociación Python España"**.
 
-Realiza la transferencia correspondiente(*) a la cuenta de la asociación indicando en el asunto el DNI/NIE y destinatario "Asociación Python España".
+Mándanos un correo a la dirección alta@es.python.org, con el **asunto "Alta nuevo socio"**, adjuntando:
 
-Mándanos un correo a la dirección alta@es.python.org, con el asunto "Alta nuevo socio", adjuntando:
 - copia/foto del dni/nie
 - un teléfono de contacto
 - la copia/foto del comprobante de pago
-- tu IBAN para poder domiciliarte el pago (se hará en febrero más o menos)
+- (opcional) tu IBAN para poder domiciliarte el pago (se hará en febrero más o menos)
 
-**1.2. No quiero domiciliar el pago**
+Si no deseas domiciliar el pago, omite el IBAN. El próximo febrero te tocará pagar la cuota completa del año (¡te lo recordaremos!).
 
-Realiza la transferencia correspondiente(*) a la cuenta de la asociación indicando en el asunto el DNI/NIE y destinatario "Asociación Python España".
-Mándanos un correo a la dirección alta@es.python.org, con el asunto "Alta nuevo socio", adjuntando:
-- copia/foto del dni/nie
-- un teléfono de contacto
-- la copia/foto del comprobante de pago
-
-El próximo febrero te tocará pagar la cuota completa del año (¡te lo recordaremos!)
-
-
-## Quiero renovar la cuota
-
-**2.1. Tengo la cuota domiciliada**
-
-¡Perfecto! Nos encargamos desde la Asociación :D
-
-**2.2. No tengo la cuota domiciliada pero me encantaría domiciliarla**
-
-En este caso, hace falta que realices la transferencia correspondiente(*) a la cuenta de la asociación indicando en el asunto el número de socio o DNI/NIE y destinatario "Asociación Python España".
-Después mándanos un correo a la dirección alta@es.python.org, adjuntando copia/foto del comprobante de pago e indicando en el asunto "Renovación cuota". Incluye en el correo tu número IBAN y te añadiremos al proceso automatizado (te llegará el recibo el próximo febrero).
-
-**2.3. No tengo la cuota domiciliada y quiero seguir así**
-
-Entonces hace falta realizar una transferencia de 30€ a la cuenta de la asociación indicando en el asunto el número de socio o DNI/NIE y destinatario "Asociación Python España".
-Mándanos un correo a la dirección alta@es.python.org, adjuntando copia/foto del comprobante de pago e indicando en el asunto "Renovación cuota".
-
-Antes de renovarla, te invitamos a que domicilies el pago o acompases tu renovación manual a febrero, nos facilitarías mucho la gestión a la Asociación. Para acompasar tu cuota con el resto de la Asociación, mira el siguiente apartado.
-
-## Quiero acompasar mi cuota con el resto de la Asociación
-
-**3.1. Y de paso domiciliar el pago**
-
-¡Fantástico! En este caso, sigue las indicaciones del punto 2.2.
-
-**3.2. Y seguir con las renovaciones manuales**
-
-¡Muchas gracias también! En este caso, cuando te toque renovar, realiza la transferencia correspondiente(*) de ese año natural (30€ en la primera mitad del año, 15€ en la segunda mitad del año). Después envíanos un correo adjuntando el comprobante de pago con el asunto "Renovación cuota", indicando que tu nueva fecha de renovación es la de la Asociación. El próximo febrero esperaremos una transferencia por tu parte (y te enviaremos un correo recordatorio por si se te pasa).
-
-
-**(*) Transferencia correspondiente**: Siempre que se pida una transferencia, la cantidad correspondiente será conforme a la siguiente norma:
+(*) **Transferencia correspondiente**: siempre que se pida una transferencia, la cantidad correspondiente será conforme a la siguiente norma:
 
 - en la primera mitad del año (enero - junio inclusive): 30€
 - en la segunda mitad del año (julio - diciembre inclusive): 15€
 
+---
+
+## Quiero renovar la cuota
+
+Si domiciliaste la cuota no necesitas hacer nada más. ¡Nos encargamos desde la asociación! Si no domiciliaste la cuota, hace falta que realices la transferencia correspondiente(*) a la cuenta de la asociación indicando en el **asunto el número de socio o DNI/NIE** y **destinatario "Asociación Python España"**.
+
+Después mándanos un correo a la dirección alta@es.python.org, **adjuntando copia/foto del comprobante de pago** e indicando en el **asunto "Renovación cuota"**. 
+
+Opcionalmente, incluye en el correo tu número IBAN y te añadiremos al proceso automatizado (te llegará el recibo el próximo febrero).
+
+Antes de renovar tu cuota, te invitamos a que domicilies el pago o acompases tu renovación manual a febrero, nos facilitarías mucho la gestión a la Asociación.
+
+## Quiero acompasar mi cuota con el resto de la Asociación
+
+Para acompasar tu cuota con el resto de la Asociación, sigue las instrucciones del apartado anterior e indica en el correo que **deseas que la próxima fecha de renovación sea la de la Asociación**. El próximo febrero esperaremos una transferencia por tu parte (y te enviaremos un correo recordatorio por si se te pasa) o se te pasará el recibo correspondiente si elegiste domiciliar el pago.
 
 ## Datos adicionales
 
