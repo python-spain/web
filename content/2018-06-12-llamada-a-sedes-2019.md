@@ -23,7 +23,6 @@ Animamos a aquellos equipos que quieran organizar la PyConES 2019 a preparar una
     * Puntos extra si está bien comunicada por transporte público con el núcleo urbano durante el fin de semana.
 * Fechas tentativas. Preferiblemente septiembre, u octubre a más tardar.
 * Quiénes integrarían el equipo organizador. El equipo local debe encargarse necesariamente de hablar con las sedes y patrocinadores locales, búsqueda de catering, logística, acuerdos con hoteles, información práctica para asistentes y reclutamiento de voluntarios. El resto de tareas se pueden repartir entre colaboradores remotos, como se ha hecho en otras ediciones. Por supuesto, la asociación ofrece infraestructura y recursos económicos.
-    * Como novedad, y para evitar problemas, *la comunicación entre el equipo organizador y la Asociación no debeerá depender de una empresa u organización en concreto*. Por ejemplo, si una empresa quiere ceder horas de sus trabajadores para organizar la PyConES, y alguno de esos trabajadores deja la empresa por cualquier motivo, es responsable de comunicar al equipo organizador su decisión de continuar o no con la organización de la conferencia.
 * Posibles ayudas institucionales (ayuntamientos, administraciones públicas).
 * Qué iniciativas concretas para promover la diversidad se llevarán a cabo. Esto incluye realización de talleres para mujeres, programas de mentorización, búsqueda de edificios accesibles, contratación de interpretación en lengua de signos...
 * Cómo se emitirían las facturas del evento. Todos los años las hemos emitido desde Python España, pero admitimos cambios en ese sentido si son razonables.
@@ -48,8 +47,6 @@ Aquí os dejamos también la propuesta de Málaga como referencia:
 https://drive.google.com/file/d/0B8R20_X-phP_dEtMOTFWb0VlYlU/view
 
 Además, desde la Junta estaremos encantados de resolveros las dudas iniciales que tengáis, presupuestos y datos de todo tipo con quienes lo solicitéis. Contactad con nosotros y contadnos un poco vuestra visión si no tenéis claro cómo enfocarla. Podemos tener una teleconferencia y compartir ideas.
-
-Personalmente, el año que viene solamente participaré en la coordinación de la infraestructura de la asociación (redirecciones de correo, cuenta de MailChimp, repositorios de GitHub), comunicación con los patrocinadores, firma de documentos oficiales y programa de becas. Por tanto, ya no me encargaré de la gestión de las entradas, las redes sociales, la definición de la hoja de ruta, y en general no lideraré las reuniones organizativas. Durante la asamblea propondré la formación de un grupo de trabajo específico para la PyConES, en el que una o varias personas de la asociación puedan participar, para formalizar el rol que he estado llevando yo hasta ahora.
 
 La PyConES es un evento hecho por la comunidad y para la comunidad. Nos volcamos con la PyConES y nos fascina tener la oportunidad de ir cada año a una ciudad nueva y a un nuevo concepto de conferencia. Así que desde la Junta y desde cada rincón de la Asociación os animamos a que deis un paso adelante y nos sorprendáis en PyConES 2019.
 
