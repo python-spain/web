@@ -1,5 +1,5 @@
 Title: Llamada a sedes PyConES 2019
-Date: 2019-06-15
+Date: 2018-06-15
 Category: PyConES
 Summary: Nos complace anunciar que queda abierta la llamada a sedes para la PyConES 2019.
 
