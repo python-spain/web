@@ -1,3 +1,8 @@
+Title: Programa de ayuda financiera PyConES 2018
+Date: 2018-06-15
+Category: PyConES
+Summary: Nos complace anunciar que queda abierto el programa de ayuda financiera para la PyConES 2018.
+
 Nos complace anunciar que, como cada año, desde la organización de la [PyConES 2018](http://2018.es.pycon.org/) ponemos en marcha un **programa de ayuda financiera** o de **becas** para quienes quieran asistir a la conferencia y que por motivos económicos no puedan hacerlo o necesiten financiación.
 
 Desde la primera edición siempre hemos tenido la vocación de que nadie se quedase sin ir a la PyConES por motivos económicos, y queremos continuar con este programa de becas un año más.
