@@ -9,7 +9,7 @@ Desde la primera edición siempre hemos tenido la vocación de que nadie se qued
 
 Si quieres beneficiarte de este programa de becas deberás mandar una solicitud en la que conste una breve presentación, una descripción de por qué quieres venir a la PyConES 2018 y el importe solicitado y justificado (desplazamiento, estancia...). En los días siguientes al cierre del plazo el comité organizador valorará todos los envíos, y aquellos que se acepten se podrán subvencionar total o parcialmente.
 
-**El último día para mandar la solicitud es el 1 de julio**.
+**El último día para mandar la solicitud es el 1 de julio, [AoE](https://time.is/Anywhere_on_Earth)**.
 
 Las solicitudes se pueden enviar desde el momento de publicación de este artículo a contact2018+finaid@es.pycon.org.
 
