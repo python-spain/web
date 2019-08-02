@@ -26,11 +26,7 @@ Comienza clonando el repositorio en tu entorno de desarrollo. Como el nombre del
 ```sh
 $ git clone https://github.com/python-spain/web.git python-es-web
 $ cd python-es-web
-$ git submodule init
-$ git submodule update
 ```
-
-Los dos últimos comandos [instalan el tema Alchemy de pelican como un submódulo](https://github.com/nairobilug/pelican-alchemy#as-a-submodule).
 
 ### Configuración del proyecto
 
@@ -79,3 +75,13 @@ Si necesitas más información sobre los comandos de `make` que puedes utilizar,
 ```sh
 $ make
 ```
+
+### Personalizaciones del estilo de la web
+
+El tema de la web esta basado en el tema [Alchemy](https://github.com/nairobilug/pelican-alchemy#as-a-submodule) de Pelican.
+
+Puedes aplicar ciertas modificaciones:
+
+- en `themes/pelican-alchemy/alchemy/static/css/theme.css` puedes sobreescribir el estilo (al final del fichero hay un apartado para personalizaciones).
+- en `themes/pelican-alchemy/alchemy/templates` encontrarás las plantillas.
+

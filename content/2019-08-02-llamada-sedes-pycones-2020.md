@@ -78,7 +78,9 @@ debería contener:
 -   Puntos extra: Si tiene precios de alojamiento asequibles o se ha
     llegado a algún tipo de acuerdo para tenerlos.
 
-### Posibles ayudas institucionales (ayuntamientos, administraciones públicas)
+### Posibles ayudas institucionales
+
+- Ayuntamientos, universidades, administraciones públicas,...
 
 ### Filosofía del evento
 
@@ -87,8 +89,7 @@ debería contener:
     ¿Iniciativas de responsabilidad social? ¿Participación de otros
     colectivos como niños o personas mayores? ¿Más ideas rompedoras?
 
-### ¿Qué iniciativas concretas se llevarán a cabo para promover la
-diversidad?
+### ¿Qué iniciativas concretas se llevarán a cabo para promover la diversidad?
 
 -   Esto incluye realización de talleres para mujeres, programas de
     mentorización, búsqueda de edificios accesibles, contratación de
