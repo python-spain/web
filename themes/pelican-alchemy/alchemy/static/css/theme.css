@@ -130,10 +130,15 @@ hr {
 /* Python España Customizations                                              */
 /* ------------------------------------------------------------------------- */
 
-.h2,h2{ font-size: 2rem; }
-.h3,h3{ font-size: 1.5rem }
-.h4,h4{ font-size: 1.25rem }
-.h5,h5{ font-size: 1rem }
-.h6,h6{ font-size: .75rem }
+article .content .h2,article .content h2{ font-size: 2rem; }
+article .content .h3,article .content h3{ font-size: 1.5rem }
+article .content .h4,article .content h4{ font-size: 1.25rem }
+article .content .h5,article .content h5{ font-size: 1rem }
+article .content .h6,article .content h6{ font-size: .75rem }
 
-.h3,h3,.h4,h4,.h5,h5,.h6,h6{ padding-left: .75rem }
+article .content .h3,article .content h3,
+article .content .h4,article .content h4,
+article .content .h5,article .content h5,
+article .content .h6,article .content h6{
+  padding-left: .75rem
+}
