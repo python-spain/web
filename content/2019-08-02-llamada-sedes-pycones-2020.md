@@ -1,3 +1,10 @@
+Title: Llamada a sedes PyConES 2020
+Date: 2019-08-02
+Category: PyConES
+Summary: Nos complace anunciar que queda abierta la llamada a sedes para la PyConES 2020.
+
+Hola pythonistas:
+
 Nos complace anunciar que queda abierta la llamada a sedes para la
 PyConES 2020.
 
