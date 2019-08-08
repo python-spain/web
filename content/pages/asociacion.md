@@ -23,7 +23,7 @@ Calle La Botánica, 4, 1º
 
 ## Junta directiva
 
-Actualmente la **Junta Directiva de Python España** (2016-2018) está formada por:
+Actualmente la **Junta Directiva de Python España** (2018-2020) está formada por:
 
 |  Cargo            |  Nombre                   |  Email                           |
 | ----------------- | ------------------------- | -------------------------------- |
