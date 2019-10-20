@@ -1,4 +1,4 @@
-pelican==3.7.1
+pelican==4.2.0
 ghp-import==0.5.5
 Markdown==2.6.8
 mdx_linkify==1.1

@@ -6,4 +6,4 @@ RUN pip install -r requirements.txt
 
 COPY . /app
 
-CMD "./develop_server_docker.sh"
+CMD ["make", "devserver"]

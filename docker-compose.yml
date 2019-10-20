@@ -6,3 +6,5 @@ services:
       - "8000:8000"
     volumes:
       - .:/app
+    environment:
+      PELICANOPTS: "-b 0.0.0.0"
