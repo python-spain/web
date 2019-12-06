@@ -22,12 +22,14 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
+# Icons are provided by https://fontawesome.com/icons (free version)
 ICONS = (
-    ('twitter', 'https://twitter.com/python_es'),
-    ('github', 'https://github.com/python-spain'),
-    ('youtube', 'https://www.youtube.com/c/PythonEspa%C3%B1aOficial'),
-    ('globe', 'http://planet.es.python.org'),
-    ('telegram', 'https://t.me/PythonEsp'),
+    ('fab fa-twitter', 'https://twitter.com/python_es'),
+    ('fab fa-github', 'https://github.com/python-spain'),
+    ('fab fa-youtube', 'https://www.youtube.com/c/PythonEspa%C3%B1aOficial'),
+    ('fas fa-globe-americas', 'http://planet.es.python.org'),
+    ('fab fa-telegram', 'https://t.me/PythonEsp'),
+    ('fab fa-discourse', 'https://comunidad.es.python.org/')
 )
 
 DEFAULT_PAGINATION = 10

@@ -24,13 +24,10 @@
             <li class="list-inline-item"><a href="{{ SITEURL }}/{{ page.url }}">{{ page.title }}</a></li>
           {% endfor %}
         {% endif %}
-        {% for icon, link in ICONS %}
-          {% if (LINKS or (DISPLAY_PAGES_ON_MENU and pages)) and loop.first %}
-            <li class=" list-inline-item text-muted">|</li>
-          {% endif %}
-          <li class="list-inline-item"><a class="fa fa-{{ icon }}" href="{{ link }}" target="_blank"></a></li>
-        {% endfor %}
       </ul>
+      {% for icon_class, link in ICONS %}
+        <li class="list-inline-item" style="font-size: 20px"><a class="{{ icon_class }}" href="{{ link }}" target="_blank"></a></li>
+      {% endfor %}
     {% endif %}
   </div>
 </div>
