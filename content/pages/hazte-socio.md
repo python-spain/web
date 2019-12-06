@@ -5,21 +5,19 @@ Este documento detalla el procedimiento que ha establecido Python España para q
 
 ## Quiero asociarme
 
-Realiza la transferencia correspondiente(*) a la cuenta de la asociación indicando en el **asunto el DNI/NIE** y en **destinatario "Asociación Python España"**.
+Antes de nada: **¡muchas gracias!** El proceso para asociarte es muy sencillo:
 
-Mándanos un correo a la dirección alta@es.python.org, con el **asunto "Alta nuevo socio"**, adjuntando:
+1. Haz una transferencia de 30€¹ a `ES18 1491 0001 2230 0008 5378` indicando en el **asunto tu DNI/NIE** y en **destinatario "Asociación Python España"**.
 
-- copia/foto del dni/nie
-- un teléfono de contacto
-- la copia/foto del comprobante de pago
-- (opcional) tu IBAN para poder domiciliarte el pago (se hará en febrero más o menos)
+2. Mándanos un correo a [alta@es.python.org](mailto:alta@es.python.org) con **asunto "Alta nuevo socio"** adjuntando tu DNI escaneado, tu teléfono de contacto, el comprobante de pago y tu IBAN² para domiciliar el pago.
 
-Si no deseas domiciliar el pago, omite el IBAN. El próximo febrero te tocará pagar la cuota completa del año (¡te lo recordaremos!).
+3. En unos días la Junta Directiva aprobará tu solicitud y nos pondremos en contacto contigo.
 
-(*) **Transferencia correspondiente**: siempre que se pida una transferencia, la cantidad correspondiente será conforme a la siguiente norma:
+¡No olvides decir «¡Hola!» cuando nos escribas! Y si encima tienes un momento para presentarte y hablarnos un poco de ti, mejor :)
 
-- en la primera mitad del año (enero - junio inclusive): 30€
-- en la segunda mitad del año (julio - diciembre inclusive): 15€
+¹ Durante la segunda mitad del año (julio-diciembre inclusive) el pago será de 15€.
+
+² Si no deseas domiciliar el pago, omite el IBAN. El próximo febrero te tocará pagar la cuota completa del año (¡te lo recordaremos!).
 
 ---
 
