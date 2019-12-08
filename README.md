@@ -15,10 +15,6 @@ Recuerda que al participar en esta comunidad, aceptas y te comprometes a cumplir
 
 ## Instalación del sitio web
 
-### Prerrequisitos
-
-Probar el sitio web en local requiere un entorno UNIX y los programas [`make`](https://www.gnu.org/software/make/), [`git`](https://git-scm.com/downloads), [`pip`](https://pip.pypa.io/en/stable/installing/) y [Python 2.7.x or 3.3+](https://www.python.org/downloads/). La siguiente guía asume que trabajas con Python 3.
-
 ### Clonando el repositorio
 
 Comienza clonando el repositorio en tu entorno de desarrollo. Como el nombre del mismo es demasiado genérico, indica el directorio de destino como último parámetro:
@@ -28,7 +24,30 @@ $ git clone https://github.com/python-spain/web.git python-es-web
 $ cd python-es-web
 ```
 
-### Configuración del proyecto
+Para probar el sitio en local tienes dos opciones: usar docker o usar un entorno virtualenv.
+
+### Usando docker
+
+[Docker](https://docs.docker.com/) y [docker-compose](https://docs.docker.com/compose/) son herramientas que permiten generar entornos replicables y fáciles de compartir entre múltiples personas. Consulta [esta guía](https://www.digitalocean.com/community/tutorials/how-to-install-docker-compose-on-ubuntu-18-04) para instalar docker y docker-compose en un entorno Ubuntu. Para otros sistemas operativos, busca "cómo instalar docker-compose en (distribución/sistema operativo)".
+
+Una vez instalado, ejecuta el siguiente comando dentro del directorio del proyecto para iniciar el servidor de desarrollo:
+
+```sh
+$ docker-compose up
+```
+
+Por defecto escuchará en `localhost:8000`. Las carpetas `themes` y `content` serán monitorizadas y el sitio web se regenerará automáticamente si el contenido cambia.
+
+
+### Usando un virtualenv
+
+#### Prerrequisitos
+
+Probar el sitio web en local usando virtualenv requiere un entorno UNIX y los programas [`make`](https://www.gnu.org/software/make/), [`git`](https://git-scm.com/downloads), [`pip`](https://pip.pypa.io/en/stable/installing/) y [Python 2.7.x or 3.3+](https://www.python.org/downloads/). La siguiente guía asume que trabajas con Python 3.
+
+
+
+#### Configuración del proyecto
 
 > **NOTA**: Es opcional pero áltamente recomendable [trabajar en un entorno virtual de Python](#trabajar-en-un-entorno-virtual).
 
@@ -38,7 +57,7 @@ Las dependencias del sitio web se encuentran en el archivo `requirements.txt`. I
 $ pip install -r requirements.txt
 ```
 
-#### Trabajar en un entorno virtual
+##### Trabajar en un entorno virtual
 
 Un [entorno virtual](https://docs.python.org/3/tutorial/venv.html) permite trabajar en un entorno Python 3 aislado e independiente de tu sistema. Esto quiere decir que los paquetes que instales dentro del entorno virtual no estarán disponibles en tu instalación global de Python o en otros entornos virtuales (y viceversa).
 
@@ -60,7 +79,7 @@ Para salir de un entorno virtual activo, lanza el comando:
 $ deactivate
 ```
 
-### Probando en local
+#### Probando en local
 
 Realiza pruebas en local lanzando el servidor de desarrollo:
 
