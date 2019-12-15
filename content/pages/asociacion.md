@@ -10,7 +10,7 @@ Si quieres apoyar nuestra labor para que podamos abordar proyectos cada vez más
 
 Puedes acceder a los **estatutos**, **reglamento de régimen interno**, **actas** y otra documentación en este enlace:
 
-http://documentos-asociacion.es.python.org/
+https://github.com/python-spain/documentacion/
 
 ## Datos fiscales
 
