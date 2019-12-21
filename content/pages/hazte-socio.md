@@ -40,8 +40,9 @@ Para acompasar tu cuota con el resto de la Asociación, sigue las instrucciones 
 Cuenta bancaria de la asociación:
 
 ```
-Triodos BANK IBAN
-ES18 1491 0001 2230 0008 5378
+Triodos BANK
+IBAN: ES18 1491 0001 2230 0008 5378
+BIC/SWIFT: TRIOESMMXXX
 ```
 
 ## Quiero darme de baja
