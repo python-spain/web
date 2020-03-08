@@ -34,7 +34,7 @@ function addLocation(loc_data) {
 var locations = [
 [40.41664, -3.70381, 'Python Madrid', 'http://www.python-madrid.es/'],
 [42.1986, -8.7726, 'Python Vigo', 'http://www.python-vigo.es/'],
-[36.7644, -4.4242, 'Python Málaga', 'http://www.meetup.com/malaga-python/'],
+[36.7644, -4.4242, 'Python Málaga', 'https://www.meetup.com/es-ES/python_malaga/'],
 [39.4227, -0.3525, 'Python Valencia', 'http://www.meetup.com/es-ES/Python-Valencia-Meetup/'],
 [41.3929, 2.1404, 'PyBCN', 'http://pybcn.org/'],
 [39.6602, 2.9862, 'Python Mallorca', 'http://www.meetup.com/es-ES/Mallorca-Python-Meetup/'],
