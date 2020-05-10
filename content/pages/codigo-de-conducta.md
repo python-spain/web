@@ -1,4 +1,5 @@
-# Código de Conducta de la Asociación Python España
+Title: Código de Conducta
+
 
 Python España, como asociación en torno a la que se organizan eventos de distintos tipos, quiere asegurar que todas las personas que participen en dichos eventos o comunicaciones tengan una experiencia profesional y positiva de aprendizaje, colaboración u ocio. Para ello, se espera que quien participe en la comunidad muestre respeto y cortesía hacia el resto.
 
@@ -56,8 +57,8 @@ Los casos de comportamiento abusivo, acosador o inaceptable de otro modo podrán
 
 - Si es un evento presencial, ponte en contacto directamente con las personas organizadoras del evento. Es muy probable que hayan publicando un código de conducta específico del evento con instrucciones de a quién acudir; te proporcionarán un espacio seguro para ayudarte.
 - Si se trata de un espacio en línea, ponte en contacto con las personas moderadoras de ese espacio.
-  * En el foro de Discourse puedes denunciar publicaciones individuales o contactar con el [grupo de moderadores](https://comunidad.es.python.org/groups/moderadores).
-  * En Telegram, a la persona propietaria del grupo u otras administradoras.
+   - En el foro de Discourse puedes denunciar publicaciones individuales o contactar con el [grupo de moderadores](https://comunidad.es.python.org/groups/moderadores).
+   - En Telegram, a la persona propietaria del grupo u otras administradoras.
 - Para otros espacios o de forma alternativa, ponte en contacto con la Junta Directiva en [contacto@es.python.org](mailto:contacto@es.python.org).
 
 Todas las personas administradoras de la comunidad están obligadas a respetar la privacidad y la seguridad de quienes denuncien incidentes.

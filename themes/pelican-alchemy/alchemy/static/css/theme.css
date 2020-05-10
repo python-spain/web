@@ -142,3 +142,10 @@ article .content .h5,article .content h5,
 article .content .h6,article .content h6{
   padding-left: .75rem
 }
+
+article .content blockquote{
+  margin-left: .5rem;
+  margin-top: 2rem;
+  border-left: 4px solid lightgray;
+  padding-left: 1.5rem;
+}
