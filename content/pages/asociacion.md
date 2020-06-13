@@ -23,14 +23,16 @@ Calle La Botánica, 4, 1º
 
 ## Junta directiva
 
-Actualmente la **Junta Directiva de Python España** (2020-2022) está formada por:
+Actualmente la **junta directiva de Python España** (2020-2022) está formada por:
 
-|  Cargo            |  Nombre                   |  Email                           |
-| ----------------- | ------------------------- | -------------------------------- |
-|  Presidencia      |  Israel Saeta             |  presidencia@es.python.org       |
-|  Vicepresidencia  |  Xavi Torelló             |  vicepresidencia@es.python.org   |
-|  Tesorería        |  Marcos Gabarda           |  tesoreria@es.python.org         |
-|  Secretaría       |  Raúl Cumplido            |  secretaria@es.python.org        |
-|  Vocalía          |  Maria Antònia Tugores    |  vocalia@es.python.org           |
-|  Vocalía          |  Yamila Moreno            |  vocalia@es.python.org           |
-|  Vocalía          |  David Barragán           |  vocalia@es.python.org           |
+|  Cargo            |  Nombre                   |
+| ----------------- | ------------------------- |
+|  Presidencia      |  Israel Saeta             |
+|  Vicepresidencia  |  Xavi Torelló             |
+|  Tesorería        |  Marcos Gabarda           |
+|  Secretaría       |  Raúl Cumplido            |
+|  Vocalía          |  Maria Antònia Tugores    |
+|  Vocalía          |  Yamila Moreno            |
+|  Vocalía          |  David Barragán           |
+
+Si quieres contactar con la junta escribe a [junta@es.python.org](mailto:junta@es.python.org).

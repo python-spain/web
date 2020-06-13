@@ -149,3 +149,12 @@ article .content blockquote{
   border-left: 4px solid lightgray;
   padding-left: 1.5rem;
 }
+
+table {
+  margin: 10px 0;
+  width: 80%;
+}
+
+th, td {
+  padding: 3px 0;
+}
