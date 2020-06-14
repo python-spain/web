@@ -1,6 +1,6 @@
 Title: Python España apoya la iniciativa 'Public Money? Public Code!' de la FSFE
 Date: 2020-05-25
-Category: eventos, asociación
+Category: asociación
 Summary: Desde la pasada semana, la Asociación Python España oficialmente forma parte del conjunto de entidades que apoyan la carta abierta, que reproducimos al final de este artículo, que exige a los organismos públicos que todo el software financiado con fondos públicos desarrollado para el sector público se ponga a disposición de toda la ciudadanía bajo una licencia de Software Libre y de Código Abierto.
 
 A raíz de la propuesta que nos hizo un socio, Sergio Soto, en el [discourse](https://comunidad.es.python.org/t/apoyo-campana-public-money-public-code-de-la-fsfe/243), nos pusimos en contacto con la [FSFE](https://fsfe.org/) para ofrecer desde la asociación nuestro apoyo públicamente a esta campaña.

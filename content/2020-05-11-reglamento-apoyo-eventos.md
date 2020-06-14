@@ -1,6 +1,6 @@
 Title: Reglamento para el apoyo de eventos promovidos por personas asociadas a Python España
 Date: 2020-05-11
-Category: eventos, asociación
+Category: asociación
 Summary: Desde la Junta quemeros difundir el apoyo que ofrece la asociación a las comunidades locales para la realización de eventos. Para ello hemos confeccionado un pequeño documento que recoge las condiciones que deben cumplirse para optar al mismo. Puedes leerlo a continuación:
 
 Desde la Junta quemeros difundir el apoyo que ofrece la asociación a las comunidades locales para la realización de eventos. Para ello hemos confeccionado un pequeño documento que recoge las condiciones que deben cumplirse para optar al mismo.
@@ -21,8 +21,8 @@ Desde la Junta quemeros difundir el apoyo que ofrece la asociación a las comuni
 > 7. Contribución económica**
 > 8. Ayuda en la búsqueda de colaboradores (miembros/socios) así como creación de Grupos de Trabajo si la magnitud del evento lo requiere
 >
-> *Python España debería aparecer como organizadora o co-organizadora del evento.  
-> **Python España debería aparecer como patrocinadora o colaboradora del evento.   
+> *Python España debería aparecer como organizadora o co-organizadora del evento.
+> **Python España debería aparecer como patrocinadora o colaboradora del evento.
 >
 > **Artículo 3** El evento deberá estar relacionado con la comunidad de Python, deberá contar con al menos una socia de la Asociación Python España en su organización y en el evento deberá regirse por el código de conducta aprobado en Python España o uno compatible con el mismo adaptado al evento en particular.
 >
