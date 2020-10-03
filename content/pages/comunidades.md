@@ -49,6 +49,7 @@ var locations = [
 [39.6149,2.9527, 'PyData Mallorca', 'https://www.meetup.com/PyData-Mallorca/'],
 [36.842512, -2.457619, 'Python Almería', 'https://www.meetup.com/Python-Almeria/'],
 [40.417037, -3.702626, 'PyLadies Madrid', 'https://www.meetup.com/es-ES/PyLadiesMadrid/'],
+[40.961613, -5.667607, 'PyData Salamanca', 'https://www.meetup.com/PyData-Salamanca/'],
 [39.478848, -6.342179, 'ExtrePython', 'https://twitter.com/ExtrePython'],
 [42.81692, -1.64286, 'Python Navarra', 'https://twitter.com/pythonnavarra']
 ]
