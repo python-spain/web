@@ -39,7 +39,7 @@ var locations = [
 [41.3929, 2.1404, 'PyBCN', 'http://pybcn.org/'],
 [39.6602, 2.9862, 'Python Mallorca', 'http://www.meetup.com/es-ES/Mallorca-Python-Meetup/'],
 [37.3766, -5.926, 'Python Sevilla', 'http://www.meetup.com/es-ES/Python-Sevilla/'],
-[41.692, -0.9271, 'PythonZaragoza', 'https://plus.google.com/communities/103281359456269063508'],
+[41.692, -0.9271, 'PythonZaragoza'],
 [37.1809, -3.5983, 'Python Granada', 'http://www.python-granada.es/'],
 [28.4811, -16.3227, 'Python Canarias', 'http://pythoncanarias.es/'],
 [38.3453, -0.4831, 'Python Alicante', 'https://twitter.com/python_alc'],
