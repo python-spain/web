@@ -50,11 +50,10 @@ var locations = [
     [41.3929, 2.1404, 'PyBCN', 'http://pybcn.org/'],
     [39.6602, 2.9862, 'Python Mallorca', 'http://www.meetup.com/es-ES/Mallorca-Python-Meetup/'],
     [37.3766, -5.926, 'Python Sevilla', 'http://www.meetup.com/es-ES/Python-Sevilla/'],
-    [41.692, -0.9271, 'PythonZaragoza'],
     [37.1809, -3.5983, 'Python Granada', 'http://www.python-granada.es/'],
     [28.4811, -16.3227, 'Python Canarias', 'http://pythoncanarias.es/'],
     [38.3453, -0.4831, 'Python Alicante', 'https://twitter.com/python_alc'],
-    [43.2918, -1.9889, 'Python San Sebastián', 'http://pyss.org/'],
+    [43.2918, -1.9889, 'Python San Sebastián', 'https://pyss.org/'],
     [41.9830495, 2.8245813, 'Python Girona', 'https://pythongirona.cat/'],
     [40.4126148, -3.7138357, 'PyData Madrid', 'https://www.meetup.com/PyData-Madrid/'],
     [39.6149, 2.9527, 'PyData Mallorca', 'https://www.meetup.com/PyData-Mallorca/'],
@@ -65,7 +64,8 @@ var locations = [
     [42.81692, -1.64286, 'Python Navarra', 'https://twitter.com/pythonnavarra'],
     [37.990434, -1.133015, 'Python Murcia', 'https://twitter.com/pythonmurcia'],
     [37.883333, -4.766667, 'Python Cordoba'],
-    [41.652778, -4.723611, 'Python Valladolid']
+    [41.652778, -4.723611, 'Python Valladolid'],
+    [41.3959, 2.1404, 'PyLadies Barcelona', 'https://www.meetup.com/PyLadies-BCN/'],
 ];
 locations.forEach(addLocation);
 
