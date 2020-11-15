@@ -52,7 +52,9 @@ var locations = [
 [40.961613, -5.667607, 'PyData Salamanca', 'https://www.meetup.com/PyData-Salamanca/'],
 [39.478848, -6.342179, 'ExtrePython', 'https://twitter.com/ExtrePython'],
 [42.81692, -1.64286, 'Python Navarra', 'https://twitter.com/pythonnavarra'],
-[37.990434, -1.133015, 'Python Murcia', 'https://twitter.com/pythonmurcia']
+[37.990434, -1.133015, 'Python Murcia', 'https://twitter.com/pythonmurcia'],
+[37.883333, -4.766667, 'Python Cordoba'],
+[41.652778, -4.723611, 'Python Valladolid']
 ]
 locations.forEach(addLocation)
 </script>
