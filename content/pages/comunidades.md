@@ -23,9 +23,22 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
 
 function addLocation(loc_data) {
     var title = loc_data[2];
-    var link = loc_data[3];
-    L.marker([loc_data[0], loc_data[1]])
-        .bindPopup(`${title} <a target="_blank" href=${link}>Link.</a>`)
+    var popupText = title;
+
+    if (loc_data.length > 3) {
+      var link = loc_data[3];
+      popupText = `<a href="${link}" title="${title}">${title}</a>`;
+    }
+
+    var icon = L.icon({
+      iconUrl: '/images/python-marker.png',
+      iconSize: [20, 28],
+      iconAnchor: [10, 28],
+      popupAnchor: [0, -28]
+    });
+
+    L.marker([loc_data[0], loc_data[1]], {icon: icon})
+        .bindPopup(popupText)
         .addTo(map);
 }
 
