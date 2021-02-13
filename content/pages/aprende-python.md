@@ -29,6 +29,7 @@ Para responder esta pregunta primero debes responder a la siguiente situación: 
 - [Python's original tutorial](https://docs.python.org/3/tutorial/)
 - [Learning Python](http://docs.python-guide.org/en/latest/intro/learning/) - a section from [The Hitchhiker's Guide to Python](http://docs.python-guide.org/) (a very good and complete list of resources!)
 - [Python for everybody](https://books.trinket.io/pfe/) - By Charles Severance (Dr. Chuck)
+- [Dive into Python](https://diveintopython3.net/) - By Mark Pilgrim
 
 ---
 #### ¿Echas en falta algo?
