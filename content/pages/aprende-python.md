@@ -12,13 +12,14 @@ Para responder esta pregunta primero debes responder a la siguiente situación: 
 
 ### Si no sabes programar, puedes empezar por los siguientes libros/tutoriales:
 
-- [Tutorial oficial de Python](https://docs.python.org/es/3/tutorial/). Sí, en Español!
+- [Tutorial oficial de Python](https://docs.python.org/es/3/tutorial/). Sí, ¡en español!
 - [Tutorial de Django Girls](https://tutorial.djangogirls.org/es/)
 - [Introducción a la programación con Python 3](http://dx.doi.org/10.6035/Sapientia93) - Universitat Jaume I - Castellón
 - [Introducción a la programación con Python](http://mclibre.org/consultar/python/) - Barto Sintes - IES Abastos - Valencia
 - [Solución de problemas con algoritmos y estructuras de datos usando Python](http://interactivepython.org/runestone/static/pythoned/index.html) - Libro de Brad Miller y David Ranum traducido por Maurico Orozco-Alzate
 - [Playlist en Youtube de Python desde 0](https://www.youtube.com/playlist?list=PLU8oAlHdN5BlvPxziopYZRd55pdqFwkeS) - Píldoras Informáticas
-- [Más recursos...](https://argentinaenpython.com/quiero-aprender-python/) - Quiero aprender Python
+- [Quiero aprender Python](https://argentinaenpython.com/quiero-aprender-python/) - Argentina en Python
+- [Más recursos...](https://wiki.python.org/moin/SpanishLanguage) - Wiki en español de python.org
 
 ### Si ya tienes conocimientos de programación te recomendamos:
 
