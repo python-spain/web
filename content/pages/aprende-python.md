@@ -19,6 +19,7 @@ Para responder esta pregunta primero debes responder a la siguiente situación: 
 - [Solución de problemas con algoritmos y estructuras de datos usando Python](http://interactivepython.org/runestone/static/pythoned/index.html) - Libro de Brad Miller y David Ranum traducido por Maurico Orozco-Alzate
 - [Playlist en Youtube de Python desde 0](https://www.youtube.com/playlist?list=PLU8oAlHdN5BlvPxziopYZRd55pdqFwkeS) - Píldoras Informáticas
 - [Quiero aprender Python](https://argentinaenpython.com/quiero-aprender-python/) - Argentina en Python
+- [Aprende Python en Español](https://aprendepython.es/) - Sergio Delgado Quintero
 - [Más recursos...](https://wiki.python.org/moin/SpanishLanguage) - Wiki en español de python.org
 
 ### Si ya tienes conocimientos de programación te recomendamos:
@@ -38,6 +39,6 @@ Para responder esta pregunta primero debes responder a la siguiente situación: 
 Abre un [issue](https://github.com/python-spain/PMF/issues/new) en el repositorio para solicitar contenido nuevo. Comprueba primero que no se haya pedido antes ([ver listado](https://github.com/python-spain/PMF/issues)).
 
 #### ¿Quieres mejorar/añadir una respuesta?
-Envíanos un Pull Request con los cambios propuestos al [repositorio](https://github.com/python-spain/PMF).
+Envíanos un Pull Request con los cambios propuestos al [repositorio](https://github.com/python-spain/web/issues).
 
 ¡Muchas gracias por tu ayuda!
