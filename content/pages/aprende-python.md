@@ -29,10 +29,12 @@ Para responder esta pregunta primero debes responder a la siguiente situación: 
 ### Si no tienes problemas con el inglés, la oferta es mucho mayor:
 
 - [Python's original tutorial](https://docs.python.org/3/tutorial/)
-- [Learning Python](http://docs.python-guide.org/en/latest/intro/learning/) - a section from [The Hitchhiker's Guide to Python](http://docs.python-guide.org/) (a very good and complete list of resources!)
-- [Python for everybody](https://books.trinket.io/pfe/) - By Charles Severance (Dr. Chuck)
-- [Dive into Python](https://diveintopython3.net/) - By Mark Pilgrim
-- [Python Tutorial for Beginners (Vídeo tutoriales)](https://www.youtube.com/watch?v=YYXdXT2l-Gg&list=PL-osiE80TeTskrapNbzXhwoFUiLCjGgY7) - By Corey Schafer
+- [Learning Python](http://docs.python-guide.org/en/latest/intro/learning/) - una sección de [The Hitchhiker's Guide to Python](http://docs.python-guide.org/) (¡una guía muy buena y completa de recursos!)
+- [Python for everybody](https://books.trinket.io/pfe/) - Charles Severance (Dr. Chuck)
+- [Dive into Python](https://diveintopython3.net/) - Mark Pilgrim
+- [Python Free Programming Books](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books.md#python) - libros con licencias libres
+- [Awesome Python Books](https://github.com/Junnplus/awesome-python-books) - libros ordenados por categorías
+- [Python Tutorial for Beginners](https://www.youtube.com/watch?v=YYXdXT2l-Gg&list=PL-osiE80TeTskrapNbzXhwoFUiLCjGgY7) - Vídeo tutoriales de Corey Schafer
 
 ---
 #### ¿Echas en falta algo?
