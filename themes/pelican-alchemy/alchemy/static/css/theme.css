@@ -158,3 +158,26 @@ table {
 th, td {
   padding: 3px 0;
 }
+
+.discord {
+  margin-bottom: 10px;
+}
+
+.discord button {
+  width: 100%;
+  justify-content: center;
+}
+
+.valign {
+  display: flex;
+  align-items: center;
+}
+
+.valign span {
+  margin-left: 10px;
+}
+
+.size-h4 {
+  font-size: 1.2em;
+}
+  

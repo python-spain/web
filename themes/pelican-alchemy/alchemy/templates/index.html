@@ -11,45 +11,42 @@
   {{ SITENAME }} | {{ SITESUBTITLE }}
 {% endblock %}
 
-{% block page_header %}
-  Articles
-{% endblock %}
-
 {% block content %}
-  {% for article in articles_page.object_list %}
-    <article class="row teaser">
-      <header class="col-sm-4 text-muted">
-        <ul>
-          <li title="{{ article.date.isoformat() }}">
-            <i class="fa fa-clock-o"></i>
-            {{ article.locale_date }}
-          </li>
-          <li>
-            <i class="fa fa-folder-open-o"></i>
-            <a href="{{ SITEURL }}/{{ article.category.url }}">{{ article.category }}</a>
-          </li>
-          {% if not HIDE_AUTHORS and article.authors %}
-            <li>
-              <i class="fa fa-user-o"></i>
-              {% for author in article.authors %}
-                <a href="{{ SITEURL }}/{{ author.url }}">{{ author }}</a>{% if not loop.last %}, {% endif %}
-              {% endfor %}
-            </li>
-          {% endif %}
-        </ul>
-      </header>
-      <div class="col-sm-8">
-        <h4 class="title">
-          <a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a>
-        </h4>
-        <div class="content">
-          {{ article.summary|striptags }}
-        </div>
+  <div class="row main">
+    <div class="col-md-4 order-md-2">
+      <div class="discord">
+        <a href="https://discord.gg/35E3Ph7Fez">
+          <button class="btn btn-primary valign size-h4"><i class="fab fa-discord fa-2x" aria-hidden="true"></i> <span>Python en español</span>
+          </button>
+        </a>
       </div>
-    </article>
-    {% if not loop.last %}
-      <hr>
-    {% endif %}
-  {% endfor %}
-  {% include 'include/pagination.html' %}
+      <a class="twitter-timeline" data-lang="es" data-height="1000" data-theme="light" href="https://twitter.com/python_es?ref_src=twsrc%5Etfw">Tweets by python_es</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+    </div>
+    <div class="col-md-8 order-md-1">
+    {% for article in articles_page.object_list %}
+      <article class="row teaser">
+        <div class="col-12">
+          <h4 class="title">
+            <a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a>
+          </h4>
+          <header class="text-muted">
+          <ul>
+            <li title="{{ article.date.isoformat() }}">
+              {{ article.locale_date }}
+            </li>
+          </ul>
+          </header>
+          <div class="content">
+            {{ article.summary|striptags }}
+          </div>
+        </div>
+      </article>
+      {% if not loop.last %}
+        <hr>
+      {% endif %}
+    {% endfor %}
+    {% include 'include/pagination.html' %}
+    </div>
+  </div>
+  
 {% endblock %}

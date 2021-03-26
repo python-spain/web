@@ -7,6 +7,7 @@ SITENAME = 'Python España'
 SITEURL = ''
 SITESUBTITLE = 'Web de la Asociación'
 SITEIMAGE = '/images/logo.png'
+HIDE_AUTHORS = True
 
 PATH = 'content'
 
@@ -29,7 +30,8 @@ ICONS = (
     ('fab fa-youtube', 'https://www.youtube.com/c/PythonEspa%C3%B1aOficial'),
     ('fas fa-globe-americas', 'http://planet.es.python.org'),
     ('fab fa-telegram', 'https://t.me/PythonEsp'),
-    ('fab fa-discourse', 'https://comunidad.es.python.org/')
+    ('fab fa-discourse', 'https://comunidad.es.python.org/'),
+    ('fab fa-discord', 'https://discord.gg/35E3Ph7Fez'),
 )
 
 DEFAULT_PAGINATION = 10
