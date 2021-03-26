@@ -36,8 +36,11 @@ Para responder esta pregunta primero debes responder a la siguiente situación: 
 - [Awesome Python Books](https://github.com/Junnplus/awesome-python-books) - libros ordenados por categorías
 - [Python Tutorial for Beginners](https://www.youtube.com/watch?v=YYXdXT2l-Gg&list=PL-osiE80TeTskrapNbzXhwoFUiLCjGgY7) - Vídeo tutoriales de Corey Schafer
 
----
-#### ¿Echas en falta algo?
-Abre un [issue](https://github.com/python-spain/web/issues/new) en el repositorio para solicitar contenido nuevo. Comprueba primero que no se haya pedido antes ([ver listado](https://github.com/python-spain/web/issues)).
+### ¿Echas en falta algo?
+Abre un [issue](https://github.com/python-spain/web/issues/new) en el repositorio para solicitar contenido nuevo. Comprueba primero que no se haya pedido antes ([ver listado](https://github.com/python-spain/web/issues)). ¡Gracias!
 
-¡Muchas gracias por tu ayuda!
+## ¿Dónde puedo conseguir ayuda?
+
+- [Discord de Python en español](https://discord.gg/35E3Ph7Fez).
+- [Telegram de Python en español](https://t.me/PythonEsp).
+- [Stack Overflow en español](https://es.stackoverflow.com/).
