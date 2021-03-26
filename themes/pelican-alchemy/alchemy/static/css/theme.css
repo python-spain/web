@@ -168,6 +168,22 @@ th, td {
   justify-content: center;
 }
 
+.discord .btn-primary,
+.discord .btn-primary:active,
+.discord .btn-primary:visited,
+.discord .btn-primary:focus {
+  background-color: #7289da;
+  border-color: #7289da;
+}
+.discord .btn-primary:hover {
+  background-color: #859bee;
+  border-color: #859bee;
+}
+
+.discord a {
+  text-decoration: none;
+}
+
 .valign {
   display: flex;
   align-items: center;
