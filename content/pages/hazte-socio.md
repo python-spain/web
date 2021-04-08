@@ -19,7 +19,7 @@ Antes de nada: **¡muchas gracias!** El proceso para asociarte es muy sencillo:
 
 ² Si no deseas domiciliar el pago, omite el IBAN. El próximo febrero te tocará pagar la cuota completa del año (¡te lo recordaremos!).
 
-³ La cuenta `@es.python.org` te brindará acceso a todos los servicios habilitados en nuestro Workspace de Google, incluyendo 30GB personales en Drive. Podrás solicitarlo más adelante a través del [formulario de solicitud de cuenta @es.python.org](https://docs.google.com/forms/d/19esbLPWJXTgQZKRy_tfp33UuM6typivFEqBFleqHUjk/viewform).
+³ La cuenta `@es.python.org` te brindará acceso a todos los servicios habilitados en nuestro Workspace de Google, incluyendo 30GB personales en Drive.
 
 ---
 
