@@ -13,3 +13,5 @@ jobs:
 
       - name: Build static Pelican site
         uses: nelsonjchen/gh-pages-pelican-action@0.1.7
+        env:
+          GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
