@@ -2,7 +2,7 @@ name: Build static site
 
 on:
   push:
-    branches: [ "*" ]
+    branches: [ master ]
 
 jobs:
   build:
