@@ -1,0 +1,7 @@
+<div class="topnav">
+{% if DISPLAY_PAGES_ON_MENU %}
+  {% for page in pages %}
+    <a href="{{ SITEURL }}/{{ page.url }}">{{ page.title }}</a></li>
+  {% endfor %}
+{% endif %}
+</div>
