@@ -44,7 +44,13 @@ Ahora mismo la comunidad de Python en español se concentra en:
 - [Telegram](https://t.me/PythonEsp)
 - [Stack Overflow](https://es.stackoverflow.com/)
 
-Si es de las primeras veces que preguntas en un foro, puede interesarte aprender [cómo hacer preguntas](http://www.sindominio.net/ayuda/preguntas-inteligentes.html) y, una vez te decidas a preguntar, nos cuentes también [qué has intentado](https://medium.com/@unrob/que-has-intentado-12b31d36bc89) para que funcione tu código. Para que no vayamos a ciegas, es recomendable que pegues tu código en una de las webs de abajo y compartas la URL generada en el grupo o foro:
+Si es de las primeras veces que preguntas en un foro:
+
+* No hace falta que preguntes «¿alguien me puede ayudar con X?» o «¿hay algún experto en X?», pregunta directamente.
+* Intenta agrupar toda la pregunta en un solo mensaje en vez de en muchos para facilitar su lectura y seguimiento.
+* Da detalles sobre el problema que estás intentando resolver y indica qué has probado ya.
+* Si recibes un error, describe con detalle el contexto e incluye el _traceback_ completo en un _pastebin_ (ver listado abajo).
+* Para que no vayamos a ciegas, es recomendable que pegues tu código en una de las webs de abajo y compartas la URL generada en el grupo o foro:
 
    * https://pastebin.com/
    * https://bpaste.net/
@@ -60,13 +66,18 @@ O indicarnos tu repositorio de código en:
 
 ## ¿Cuál es el mejor editor/IDE para Python?
 
-Cada persona tiene sus preferencias, experiencia, sistema operativo, necesidades, etc. Es importante sentirse cómodo con la herramienta que más vas a utilizar. Por lo tanto, en lugar de basarte en la opinión subjetiva de los demás (con otras preferencias, experiencias, ...), te resultará mucho más útil escoger uno o varios (de entre los listados que te damos a continuación) y probar durante un tiempo cada una. *Solo tú puedes contestar a la pregunta*.
+Si no has programado antes, los entornos de desarrollo más populares para principiantes de Python son:
 
-En [Full Stack Python](https://www.fullstackpython.com/) se recopila una buena selección de direcciones sobre [entornos de desarrollo](https://www.fullstackpython.com/development-environments.html) (en inglés). También tienes una completa [tabla comparativa](https://www.reddit.com/r/learnpython/wiki/ide) en *reddit* que te puede servir de guía para escoger.
+* [Mu](https://codewith.mu/es/) (más básico)
+* [Thonny](https://thonny.org/)
+
+Pero, si ya programas en otros lenguajes, sabrás que cada persona tiene sus preferencias, experiencia, sistema operativo, necesidades, etc. Lógicamente es importante sentirse cómodo con la herramienta que más vas a utilizar. Por lo tanto, en lugar de basarte en la opinión subjetiva de los demás (con otras preferencias, experiencias, ...), te resultará mucho más útil escoger uno o varios (de entre los listados que te damos a continuación) y probar durante un tiempo cada una. *Solo tú puedes contestar a la pregunta*.
+
+En [Real Python](https://realpython.com/) han escrito una buena guía sobre [entornos de desarrollo integrados y editores de código](https://realpython.com/python-ides-code-editors-guide/) (en inglés).
 
 En la misma [wiki de Python.org](https://wiki.python.org/) hay un par de listados exhaustivos sobre editores e IDEs:
 
-* [Editor de texto](https://wiki.python.org/moin/PythonEditors)
+* [Editores de texto](https://wiki.python.org/moin/PythonEditors)
 * [IDEs](https://wiki.python.org/moin/IntegratedDevelopmentEnvironments)
 
 ## ¿Qué biblioteca/*framework* recomendáis para...?
@@ -99,3 +110,4 @@ En la misma [wiki de Python.org](https://wiki.python.org/) hay un par de listado
 
 ### ¿Echas en falta algo?
 Abre un [issue](https://github.com/python-spain/web/issues/new) en el repositorio para solicitar contenido nuevo. Comprueba primero que no se haya pedido antes ([ver listado](https://github.com/python-spain/web/issues)). ¡Gracias!
+
