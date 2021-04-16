@@ -48,7 +48,7 @@ Si es de las primeras veces que preguntas en un foro:
 
 * No hace falta que preguntes «¿alguien me puede ayudar con X?» o «¿hay algún experto en X?», pregunta directamente.
 * Intenta agrupar toda la pregunta en un solo mensaje en vez de en muchos para facilitar su lectura y seguimiento.
-* Da detalles sobre el problema que estás intentando resolver y indica qué has probado ya.
+* Da detalles sobre el problema que estás intentando resolver e indica qué has probado ya.
 * Si recibes un error, describe con detalle el contexto e incluye el _traceback_ completo en un _pastebin_ (ver listado abajo).
 * Para que no vayamos a ciegas, es recomendable que pegues tu código en una de las webs de abajo y compartas la URL generada en el grupo o foro:
 
@@ -110,4 +110,3 @@ En la misma [wiki de Python.org](https://wiki.python.org/) hay un par de listado
 
 ### ¿Echas en falta algo?
 Abre un [issue](https://github.com/python-spain/web/issues/new) en el repositorio para solicitar contenido nuevo. Comprueba primero que no se haya pedido antes ([ver listado](https://github.com/python-spain/web/issues)). ¡Gracias!
-
