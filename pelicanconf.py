@@ -41,7 +41,8 @@ DEFAULT_PAGINATION = 10
 
 THEME = 'themes/pelican-alchemy/alchemy'
 
-STATIC_PATHS = ['images']
+STATIC_PATHS = ['images', 'extra/CNAME']
+EXTRA_PATH_METADATA = {'extra/CNAME': {'path': 'CNAME'},}
 
 
 def open_absolute_urls_in_blank(attrs, new=False):
