@@ -201,3 +201,24 @@ th, td {
 li p {
   margin-bottom: 0px;
 }
+
+/* Elementos para el menu de la cabecera */
+.topnav {
+  display: flex;
+  background-color: #6c6c6c;
+  margin-bottom: 10px;
+  flex-wrap: wrap;
+}
+
+.topnav a {
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 14px;
+}
+
+.topnav a:hover, .topnav a.active {
+  background-color: rgba(255, 204, 18, 0.9);
+  color: black;
+}

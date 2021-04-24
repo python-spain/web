@@ -1,0 +1,7 @@
+<div class="topnav">
+{% if DISPLAY_PAGES_ON_MENU %}
+  {% for pg in pages %}
+    <a href="{{ SITEURL }}/{{ pg.url }}" {% if page is eq pg %}class="active"{% endif %}>{{ pg.title }}</a></li>
+  {% endfor %}
+{% endif %}
+</div>
