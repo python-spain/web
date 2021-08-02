@@ -159,29 +159,52 @@ th, td {
   padding: 3px 0;
 }
 
+.newsletter,
 .discord {
-  margin-bottom: 10px;
+  margin-bottom: 16px;
 }
 
+.newsletter button,
 .discord button {
   width: 100%;
   justify-content: center;
+}
+
+.newsletter a ,
+.discord a {
+  text-decoration: none;
+}
+
+.newsletter .btn-primary,
+.newsletter .btn-primary:active,
+.newsletter .btn-primary:visited,
+.newsletter .btn-primary:focus {
+  background-color: rgba(255, 204, 18, 0.6) !important;
+  border-color: rgba(255, 204, 18, 0.6) !important;
+  color: black;
+}
+.newsletter .btn-primary:visited,
+.newsletter .btn-primary:focus {
+  box-shadow: 0 0 0 .2rem rgba(255, 204, 18, 0.3) !important;
+  color: black;
+}
+.newsletter .btn-primary:hover {
+  background-color: rgba(255, 204, 18, 1) !important;
+  border-color: rgba(255, 204, 18, 1) !important;
+  box-shadow: 0 0 0 .2rem rgba(255, 204, 18, 0.3) !important;
+  color: black;
 }
 
 .discord .btn-primary,
 .discord .btn-primary:active,
 .discord .btn-primary:visited,
 .discord .btn-primary:focus {
-  background-color: #7289da;
-  border-color: #7289da;
-}
-.discord .btn-primary:hover {
   background-color: #859bee;
   border-color: #859bee;
 }
-
-.discord a {
-  text-decoration: none;
+.discord .btn-primary:hover {
+  background-color: #7289da;
+  border-color: #7289da;
 }
 
 .valign {
