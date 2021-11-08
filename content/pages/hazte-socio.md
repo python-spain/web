@@ -49,7 +49,7 @@ BIC/SWIFT: TRIOESMMXXX
 
 ## Quiero darme de baja
 
-Es una pena dejar de contar contigo, y nos encantará que vuelvas a la Asociación Python España cuando quieras. Para darte de baja tienes que enviar un correo a contacto2018@es.python.org indicando que te quieres dar de baja. Desde ese momento no te pasaremos ninguna domiciliación y te daremos de baja de los canales de socias y socios (actualmente la lista de correo y el grupo de Telegram). Aparte, te agradeceríamos si nos dijeras el motivo de tu baja, o qué te haría volver en un futuro.
+Es una pena dejar de contar contigo, y nos encantará que vuelvas a la Asociación Python España cuando quieras. Para darte de baja tienes que enviar un correo a contacto@es.python.org indicando que te quieres dar de baja. Desde ese momento no te pasaremos ninguna domiciliación y te daremos de baja de los canales de socias y socios (actualmente la lista de correo y el grupo de Telegram). Aparte, te agradeceríamos si nos dijeras el motivo de tu baja, o qué te haría volver en un futuro.
 
 
 ## Notas generales
