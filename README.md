@@ -1,6 +1,8 @@
-[![Build Status](https://travis-ci.org/python-spain/web.svg?branch=master)](https://travis-ci.org/python-spain/web)
+# Sitio web archivado
+**:warning: La web actual no está en este repo, sino en [web-ng](https://github.com/python-spain/web-ng).**
 
-# Sitio Web de la asociación Python España
+
+# (antiguo) Sitio Web de la asociación Python España
 > https://es.python.org
 
 Este sitio web ha sido generado utilizando el generador de sitios web estáticos [Pelican](https://blog.getpelican.com/), escrito en Python.
